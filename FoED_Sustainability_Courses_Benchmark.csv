@@ -1,0 +1,760 @@
+﻿Course Code,Course Number,Description,Graduate Profile,Capability 2 (Sustainability),Learning Outcome(s) mapped to Cap 2,Assessment Type,Points,Offered in 2025,Offered in 2024,Offered in 2023
+AEROSPCE,720,Space Dynamics and Missions,Master of Aerospace Engineering,Yes,Demonstrate an understanding of sustainability in the context of space utilisation (Capability 2.1),Assignment,15,Yes,Yes,Yes
+AEROSPCE,730,Aerospace Systems Design,Master of Aerospace Engineering,Yes,"Design and communicate a component or process to meet the requirements of an aerospace system. (Capability 2.1, 3.1, 3.2, 5.1, 6.1 and 7.1) Use and apply the techniques, skills, and engineering tools necessary for aerospace practice. (Capability 2.1, 4.1, 4.2, 5.1, 8.1 and 8.2) Identify , formulate, and solve aerospace problems. (Capability 1.1, 2.1, 3.1 and 3.2)",Assignment,15,Yes,Yes,Yes
+AEROSPCE,740,Aerospace Structures and Mechanisms,Master of Aerospace Engineering,No,,,15,Yes,Yes,Yes
+ARCHDES,102,Design 1,Bachelor of Architectural Studies,Yes,ARCHITECTONICS: Express project ideas and solutions through an engagement with different materials and ways of making. (Capability 2.1 and 5.2) PROGRAMME and PERFORMANCE: Explore sites and contexts and relate these to the environmental needs of architectural outcomes. (Capability 2.2 and 3.1),Design project and workbook,15,No,Yes,Yes
+ARCHDES,103,Design 2,Bachelor of Architectural Studies,Yes,"ARCHITECTONICS: Engage with and develop methods for understanding material conditions and their expressive capacity in design solutions. (Capability 2.1 and 3.1) PROGRAMME and PERFORMANCE: Explore precedents, sites and contexts in a manner that contributes to architectural outcomes. (Capability 1.2, 2.2 and 3.1)",Design project and workbook,15,Yes,Yes,Yes
+ARCHDES,200,Design 3,Bachelor of Architectural Studies,Yes,"ARCHITECTONICS: Explore tectonic, expressive characteristics of a project through an engagement with materials and their social/cultural significance. (Capability 1.1, 1.2, 2.1 and 5.2)
+PROGRAMME and PERFORMANCE: Understand how a design proposition can work as a sustaining environment responsive to cultural knowledge and practices. (Capability 1.1, 1.2, 2.2 and 2.3)",Design project and workbook,30,Yes,Yes,Yes
+ARCHDES,201,Design 4,Bachelor of Architectural Studies,Yes,"THEORY: Explore knowledge associated with systems of fabrication, assemblage and collaborative making. (Capability 2.1 and 3.3) PROGRAMME and PERFORMANCE: Explore how the collaborative aspects of architecture can build sustaining relationships with sites and communities. (Capability 2.1, 2.2, 2.3 and 3.2)",Design project and workbook,30,Yes,Yes,Yes
+ARCHDES,300,Design 5,Bachelor of Architectural Studies,Yes,"ARCHITECTONICS: Develop tectonic, expressive characteristics of projects that explore innovative material and media aspects. (Capability 2.3, 5.1, 5.2 and 5.3)
+PROGRAMME and PERFORMANCE: Explore cultural, social, programmatic, and aesthetic aspects of architectural environments. (Capability 1.3, 2.1, 2.2, 2.3 and 3.1)",Design project and workbook,30,Yes,Yes,Yes
+ARCHDES,301,Design 6,Bachelor of Architectural Studies,Yes,"ARCHITECTONICS: Identify and develop tectonic, expressive characteristics of projects by exploring material, structural and constructional aspects in detail. (Capability 2.1, 3.2, 3.3, 4.2 and 5.2)
+PROGRAMME and PERFORMANCE: Investigate and apply relevant cultural, social, programmatic and environmentally sustainable aspects of architectural propositions (inclusive of light, heat, ventilation, etc.). (Capability 1.1, 1.2, 1.3, 2.2, 2.3 and 3.2)","Design project, workbook and critical summary",30,Yes,Yes,Yes
+ARCHDES,302,Directed Study,N/A,,,,30,,,
+ARCHDES,700,Advanced Design 1,Master of Architecture (Professional),Yes,"ARCHITECTONICS: Investigate and comprehensively integrate tectonic, technical and expressive characteristics of an urban project through a thorough engagement with materials, structural systems and constructional methods. (Capability 2.1, 2.2, 2.3, 3.3, 5.1, 5.2 and 5.3)
+PROGRAMME and PERFORMANCE: Research and develop relevant cultural, social, programmatic, and environmental facets and integrate these within an architectural proposal. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 5.1, 5.2 and 5.3)","Design project, workbook and critical summary",30,Yes,Yes,Yes
+ARCHDES,701,Advanced Design 2,Master of Architecture (Professional),Yes,"ARCHITECTONICS: Investigate and comprehensively integrate tectonic, technical and expressive characteristics of a project through a thorough engagement with materials, structural systems and constructional methods. (Capability 2.1, 2.2, 2.3, 3.3, 5.1, 5.2 and 5.3)
+PROGRAMME and PERFORMANCE: Research and develop relevant cultural, social, programmatic, and environmental facets and fully integrate these within an architectural housing or mixed use proposal. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 5.1, 5.2, 5.3, 7.1, 7.2 and 7.3)","Design project, workbook and critical summary",30,Yes,Yes,Yes
+ARCHDES,702,Adaptive Reuse,Master of Heritage Conservation,Yes,"ARCHITECTONICS: Investigate and comprehensively integrate tectonic, technical and expressive characteristics of an adaptive reuse project through a thorough engagement with materials, structural systems and constructional methods cognizant of existing built fabric. (Capability 2.1, 2.2, 5.1 and 5.2)
+PROGRAMME and PERFORMANCE: Research relevant cultural, social, programmatic, and environmental facets integral with reuse approaches to architectural developments. (Capability 1.1, 1.2, 2.1, 2.2, 3.1, 3.2, 3.3, 5.1, 5.2 and 7.1)",Design project and workbook,30,No,Yes,Yes
+ARCHDES,703,Advanced Design in Housing,Master of Architecture (Professional) and Housing Studies,No,,,30,No,No,Yes
+ARCHDRC,104,Architectural Media 2,Bachelor of Architectural Studies,No,,,15,No,Yes,Yes
+ARCHDRC,203,Architectural Media 3,Bachelor of Architectural Studies,No,,,15,Yes,Yes,Yes
+ARCHDRC,700,Advanced Digital Fabrication,Master of Architecture (Professional),No,,,15,Yes,No,No
+ARCHDRC,701,Timber Fabrication,Master of Architecture (Professional) and Housing Studies,No,,,15,Yes,yes,Yes
+ARCHDRC,702,Special Topic: Architectural Drawing,Master of Architecture (Professional) and Housing Studies,No,,,15,Yes,No,No
+ARCHDRC,703,Special Topic,N/A,,,,15,Yes,No,No
+ARCHDRC,704,Digital Reconstruction of Buildings,Master of Architecture (Professional),Yes,"Integrate and apply principles of sustainability and ethics in digital heritage projects (Capability 1.1, 1.3, 2.1, 2.2, 8.1 and 8.2)","Portfolio,Assignments",15,Yes,No,No
+ARCHGEN,702,Research Process,Postgraduate Diploma in Architecture,Yes,"Demonstrate the ability to define the rationale and motivation of a proposed research and its potential to advance knowledge about architecture (Capability 2.1, 2.2, 4.1 and 4.2)",Full research proposal,15,Yes,Yes,Yes
+ARCHGEN,703,Design as Research,Master of Architecture (Professional),Yes,"Gain an insight into the actions, processes and encounters of design research, identifying these in their own work and in the work of others, and articulating these through written text and visual materials (Capability 2.1, 3.1, 4.1, 5.3 and 6.1)","Report,Assignments",15,Yes,Yes,Yes
+ARCHGEN,704,Directed Study,Master of Architecture (Professional),Yes,"Demonstrate disciplinary knowledge through the production of a long essay. (Capability 1.2, 2.2, 3.1, 4.1 and 4.2)
+Demonstrate critical thinking through the preparation and pursuit of an appropriate research question. (Capability 1.2, 2.2, 3.1, 4.1 and 4.2)
+Demonstrate advanced skills in research and analysis, including primary research, utilising a range of sources. (Capability 1.2, 2.2, 3.1,",Essay,15,Yes,Yes,No
+ARCHGEN,711,Special Topic,Master of Architecture (Professional),No,,,15,No,No,No
+ARCHGEN,712,Special Topic,Master of Architecture (Professional),No,,,15,No,No,No
+ARCHGEN,713,Special Topic,Master of Architecture (Professional),No,,,15,No,No,No
+ARCHGEN,714,Special Topic,Master of Architecture (Professional),No,,,15,No,No,No
+ARCHGEN,715,Special Topic,N/A,,,,15,No,No,No
+ARCHGEN,733,Public Urban Space in the Contemporary City,Master of Architecture (Professional),Yes,"Show evidence of development of critical thinking and understanding of urban design process, (Capability 1.2, 2.1, 2.2, 3.3, 4.2, 5.2, 6.3, 7.1, 8.2 and 8.3)
+Demonstrate an understanding of the role of built form and material in urban space and place making. (Capability 1.1, 1.2, 2.1, 2.2, 3.3, 4.2, 5.2, 6.3, 7.1, 8.2 and 8.3)
+Show awareness of how the natural environmental, contextual, and programmatic factors affect urban space. (Capability 1.2, 2.2, 3.3, 4.2, 5.2, 6.3, 7.1 and 8.2)
+Demonstrate skill in the analysis, recording and description of three dimensional urban form and space. (Capability 1.1, 1.2, 2.1, 2.2, 3.3, 4.2, 5.2, 6.3, 7.1, 8.2 and 8.3)
+Display skill in the communication and development of urban design analysis, and in presentation of findings. (Capability 1.2, 2.2, 3.3, 4.2, 5.2, 6.3, 7.1 and 8.2)
+Identify appreciation of different cultural and human needs in urban form and public space (Capability 1.2, 2.2, 3.3, 4.2, 5.2, 6.3, 7.1 and 8.2)
+Demonstrate an understanding of the interdependence of environmental, socio-economic and cultural systems across different spatioal scales. (Capability 1.2, 2.2, 3.3, 4.2, 5.2, 6.3, 7.1 and 8.2)","Participation and presentation in class, workshops, assignments",15,Yes,Yes,Yes
+ARCHGEN,744,Special Topic,N/A,,,,15,,,
+ARCHGEN,750,Heritage Processes,Master of Heritage Conservation,No,,,15,No,No,No
+ARCHGEN,751,Heritage Assessment and Conservation Planning,Master of Heritage Conservation,No,,,15,No,No,No
+ARCHGEN,752,Conservation of Materials,Master of Heritage Conservation,No,,,15,No,No,No
+ARCHGEN,753,Diagnosis and Adaptation,Master of Heritage Conservation,No,,,15,No,No,No
+ARCHHTC,102,Modern Architecture and Urbanism, Bachelor of Architectural Studies,No,,,15,Yes,Yes,Yes
+ARCHHTC,102G,Modern Architecture and Urbanism, Bachelor of Architectural Studies,No,,,15,No,Yes,Yes
+ARCHHTC,237,Postmodern and Contemporary Architecture and Urbanism, Bachelor of Architectural Studies,Yes,"Demonstrate an awareness of wider contextual issues and key influences – architects, writers, thinkers, manifestos, philosophies, etc. – on architects and how these informed/inspired the design of key buildings (1965 – present). (Capability 1.3, 2.1, 3.1 and 3.3)","Assignments,Essay",15,Yes,Yes,Yes
+ARCHHTC,341,Premodern Architecture and Urbanism, Bachelor of Architectural Studies,No,,,15,Yes,Yes,Yes
+ARCHHTC,376,Directed Study,N/A,,,,15,,,
+ARCHHTC,700,Pacific Architecture,Master of Architecture (Professional),Yes,"Identify and describe key aspects of the physical and cultural context of the Pacific region (includes Aotearoa, NZ) as it relates to Pacific architecture and its building technologies. (Capability 1.1, 1.2, 2.1, 2.2, 2.3, 3.2, 3.3, 4.2, 4.3, 5.1, 5.2, 6.1, 6.3, 7.1, 7.2, 7.3, 8.1 and 8.2)
+Create and present a defined research proposal. (Capability 1.2, 2.2, 3.2, 3.3, 4.1, 4.2, 5.2, 6.1, 7.1, 7.3 and 8.3)
+Critically evaluate past and contemporary issues affecting Pacific built environments. (Capability 1.1, 1.2, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 5.1, 5.3, 6.1, 6.3, 7.1, 7.3, 8.1, 8.2 and 8.3)
+Demonstrate research skills to critically investigate an aspect of Pacific architecture. (Capability 1.1, 1.2, 2.1, 2.2, 3.1, 3.2, 3.3, 4.1, 4.2, 5.1, 5.2, 6.1, 7.1, 7.2, 8.1 and 8.3)
+Develop and demonstrate effective communication and presentation skills for research projects. (Capability 1.1, 1.2, 2.1, 2.2, 3.1, 3.3, 4.1, 4.2, 4.3, 5.3, 6.1, 6.2, 7.1, 7.2, 8.1 and 8.3)
+Learn creative approaches to demonstrate research findings of a particular aspect of Pacific architecture. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 3.1, 3.3, 4.1, 4.2, 4.3, 5.3, 6.1, 6.2, 7.1, 7.3, 8.1 and 8.3)","Research,Seminar, Written text and various media project",15,Yes,Yes,Yes
+ARCHHTC,701,Architecture and Political Philosophy,Master of Architecture (Professional),No,,,15,No,No,Yes
+ARCHHTC,702,History of Housing in Aotearoa New Zealand,Master of Architecture (Professional),No,,,15,Yes,Yes,Yes
+ARCHHTC,704,Special Topic,N/A,,,,15,Yes,,
+ARCHPRM,305,Project Management, Bachelor of Architectural Studies,No,,,15,Yes,Yes,Yes
+ARCHPRM,700,Project Management,Master of Architecture (Professional),No,,,15,Yes,Yes,Yes
+ARCHPRM,701,Practice Management,Master of Architecture (Professional),Yes,"Demonstrate advanced knowledge of the requirements for establishing and maintaining an architectural practice (Capability 1.3, 2.1 and 3.1)
+Demonstrate the ability to critically engage with the evolution of architectural practice and its emerging priorities. (Capability 1.1 and 2.2)
+Demonstrate ability to critically reflect on current practice management approaches and how they relate to our environmental, social and cultural environments (Capability 1.1, 2.1 and 8.2)","Quiz,Presentation, Written Submission",15,Yes,Yes,Yes
+ARCHPRM,702,Architectural Project Management,N/A,,,,15,,,
+ARCHPRM,703,Transnational Professional Practice,N/A,,,,15,,,
+ARCHPRM,704,Special Topic,N/A,,,,15,,,
+ARCHPRM,705,Special Topic,N/A,,,,15,,,
+ARCHTECH,207,Design Technology 1, Bachelor of Architectural Studies,Yes,"Communicate the most important construction methods, structured by construction systems’ and the range of different materials employed. (Capability 2.2, 4.3, 5.3 and 6.2)
+
+Demonstrate the achievement of the outcomes above, both as individual students as well as contributors to group work. (Capability 1.3, 2.2, 3.2, 4.3, 5.3, 6.3, 7.3 and 8.2)","Canvas Quizzes,Assignment,Final Exam",15,Yes,Yes,Yes
+ARCHTECH,210,Environmental Design 1, Bachelor of Architectural Studies,Yes,"Demonstrate an understanding of the complex relationships between natural and anthropogenic factors and of basic principles of building physics and building performance control through designs. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3 and 3.2)
+Approach the design process considering mutual impacts between natural and built environments (Capability 2.1, 2.2, 2.3, 3.1 and 3.3)
+Demonstrate the ability to incorporate environmental sustainability, energy efficiency and human comfort considerations and their applications through various design strategies (Capability 1.3, 2.1, 2.2, 2.3 and 3.3)","Assignment,Quiz,Exam",15,Yes,Yes,Yes
+ARCHTECH,314,Environmental Design 2, Bachelor of Architectural Studies,Yes,"Demonstrate the ability to investigate and integrate appropriate material selection for the project design, and understand how construction systems and materials selection impacts on design outcomes (PC 39) (Capability 1.2, 1.3, 2.3, 3.1, 3.2, 4.1, 5.1 and 5.3)Demonstrate the ability to integrate into the architectural design materials and components based on consideration of quality, performance standards, and their environmental impact (PC 45) in order to provide healthier spaces and high comfort for the users. (Capability 2.1, 2.2, 2.3, 3.2 and 5.2)Demonstrate a knowledge of the key issues around the environmental design of complex buildings and the integration of appropriate environmental systems, including for thermal comfort, lighting, water and acoustics (PC 33). (Capability 1.1, 1.2, 1.3 and 2.2)","Assignment, Test",15,Yes,Yes,Yes
+ARCHTECH,315,Design Technology 2, Bachelor of Architectural Studies,Yes,"Communicate issues of buildability and environmental performance. (Capability 2.2, 2.3 and 3.2)",Assignment,15,Yes,Yes,Yes
+ARCHTECH,706,Building Materials and Technologies,Master of Architecture (Professional),Yes,"Demonstrate an understanding of how building technologies and materials can be selected according to the scale of the building (Capability 1.1, 1.2 and 2.2)
+Identify research and contextualize issues related to the use of materials and technologies in different contexts and stages of the design (Capability 2.1, 2.2, 2.3, 3.2 and 5.2)","Assignment,Quiz,Presentation",15,Yes,Yes,Yes
+ARCHTECH,707,Designing with Resilience Thinking,Master of Architecture (Professional),Yes,"Develop a general understanding of sustainability, resilience and collapse (Capability 1.3, 2.1, 2.2, 3.2, 3.3, 4.2, 5.3, 6.1 and 8.3)
+Apply the theory of resilience and collapse to urban landscapes (Capability 1.2, 1.3, 3.2, 3.3, 4.1, 4.2, 5.2, 6.1, 6.2, 7.1 and 8.2)
+develop research and writing skills that satisfy international academic standards (Capability 1.2, 2.3, 3.3, 4.2, 6.1, 6.2, 6.3, 7.3 and 8.3)","Assignment			
+Discussions				
+Case Studies",15,Yes,Yes,Yes
+ARCHTECH,708,Advanced Building Technologies,Master of Architecture (Professional),No,,,15,No,No,Yes
+ARCHTECH,709,Sustainable and Healthy Housing,Master of Architecture (Professional),Yes,"Develop and demonstrate advanced ability to conduct independent research on sustainable, low-carbon and healthy buildings. (Capability 2.1, 2.2, 2.3 and 5.1)Demonstrate advanced understanding and application of how to integrate sustainability principles into design projects and their impacts upon improving human health using practical and robust approaches that can be applied to specific projects. (Capability 1.1, 1.2, 2.2, 2.3, 3.1, 3.2, 3.3, 6.1, 6.2 and 6.3)",Assignment,15,Yes,Yes,Yes
+ARCHTECH,710,Special Topic,N/A,,,,15,,,
+BIOENG,721,Physics of Physiology,Postgraduate Certificate in Bioengineering,No,,,15,Yes,No,No
+BIOENG,741,The Bioengineering Toolbox,Postgraduate Certificate in Bioengineering,Yes,"Demonstrate an understanding of the importance of diversity and sustainability in bioinstrumentation development. (Capability 1, 2 and 8)","Laboratory Experiment Reports, Assignments",15,Yes,No,No
+BIOMENG,221,Mechanics of Engineered and Biological Materials,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+BIOMENG,241,Instrumentation and Design,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+BIOMENG,261,Tissue and Biomolecular Engineering,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+BIOMENG,321,Continuum Modelling in Bioengineering,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+BIOMENG,341,Bioinstrumentation and Design,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+BIOMENG,771,Musculoskeletal and Orthopaedic Biomechanics,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+BIOMENG,791,Advanced Biomedical Engineering Design,Bachelor of Engineering (Honours),Yes,"Describe the potential environmental and social impacts of medical product production, maintenance, and disposal, as well as ways to mitigate those impacts. (Capability 1.1, 2.1 and 5.1)","Reflection,Test",15,Yes,Yes,Yes
+BIOMENG,792,Special Topic,N/A,,,,15,,,
+BIOMENG,793,Special Topic,N/A,,,,15,,,
+BIOMENG,794,Special Topic,N/A,,,,15,,,
+BLTENV,101,"People, Place and Design Studio",Bachelor of Urban Planning (Honours),Yes,"Formulate and work with conceptual ideas that contribute to design solutions. (Capability 1.1, 1.2, 2.3, 3.1, 4.1, 4.2, 5.3, 6.1, 7.1 and 8.2)
+Express project ideas and solutions through an engagement with different materials and ways of making. (Capability 2.1 and 5.2)
+Explore and analyse sites; demonstrate an understanding of site planning; and relate this to environmental uses and built design outcomes. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2 and 3.3)",Project,15,Yes,No,No
+BLTENV,102,Environmental and Social Justice,Bachelor of Urban Planning (Honours),Yes,"Critically analyze urban planning and architectural projects to evaluate their environmental impacts, social equity implications, and the extent of civic engagement. (Capability 1.1, 1.3, 2.1, 2.2, 3.1, 4.1, 5.1, 6.1, 7.1 and 8.1)
+Apply Interdisciplinary approaches that balance environmental sustainability, social equity, and civic participation in urban planning and architectural designs to showcase innovative and holistic solutions. (Capability 1.2, 2.2, 2.3, 3.1, 4.3, 5.1, 5.2 and 8.1)
+Examine and assess ethical dilemmas to promote equity, social justice and environmental stewardship in architecture and urban planning. (Capability 1.3, 2.2, 3.1, 4.2, 5.2, 6.1, 7.1 and 8.1)
+Integrating environmental and social justice perspectives into design and planning practices. (Capability 1.1, 2.1, 3.1, 4.2, 4.3, 5.2, 5.3, 7.1 and 8.3)","Final Exam, Assignments,Quizzes",15,Yes,no,No
+BLTENV,103,Media for Spatial Practices,Bachelor of Urban Planning (Honours),No,,,15,Yes,No,No
+CHEMMAT,121,Materials Science,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+CHEMMAT,201,Process Engineering 1: Introduction,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+CHEMMAT,202,Process Engineering 2: Energy and Processing,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+CHEMMAT,203,Process Engineering 3: Transfer Processes,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+CHEMMAT,204,Materials,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+CHEMMAT,205,Process Design 1,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+CHEMMAT,206,Applied Chemistry,Bachelor of Engineering (Honours),Yes,"Identify and critically analyse current problems and limitations in chemical engineering industries that are based on fundamental chemistry understandings. (Capability 2.1, 3.1, 4.1, 5.1, 6.1 and 7.1)
+Analyse and evaluate the identified chemical engineering problems through fundamental chemistry concepts and calculations. (Capability 2.1, 3.1, 4.1, 4.2, 5.1 and 6.1)
+Understand and provide examples of limitations of fundamental analysis of complex engineering problems, including assumptions that might not be valid in reality. (Capability 2.1, 3.1, 3.2, 4.1, 4.2, 5.1, 6.1 and 7.1)
+Suggest and validate suitable relatively simple solution(s) to current engineering problems through understanding of fundamental chemistry. (Capability 2.1, 3.1, 3.2, 4.1, 4.2, 5.1, 6.1 and 7.1)","Tests, Laboratories, Final Exam",15,Yes,Yes,Yes
+CHEMMAT,301,Transfer Processes 2,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+CHEMMAT,302,Advanced Process Engineering,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+CHEMMAT,303,Chemical Reactor Engineering,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+CHEMMAT,304,The Future of Energy,Bachelor of Engineering (Honours),Yes,"Analyse, critically evaluate, discuss and present a range of power generation and energy storage technologies related to their environmental sustainability, societal impact and economic significance. (Capability 2.1, 6.1 and 7.1)","Quizzes,Project,Assignments",15,Yes,Yes,Yes
+CHEMMAT,305,Materials Processing and Performance,Bachelor of Engineering (Honours),Yes,"Demonstrate an understanding of the traditional liquid metal processes including iron/steel making and aluminum smelting techniques. Analyze molten metal processing and refining and process control to reduce undesirable elements. (Capability 1.1, 2.1, 3.1, 4.1 and 5.1)
+Demonstrate an understanding of the classifications of metals, understand the special properties and applications of nonferrous metals especially aluminium, magnesium and titanium alloys, and compare them with cast iron and steels. (Capability 1.1, 2.1, 3.1, 4.1 and 5.1)
+Explain and critically evaluate the effect of the chemical structure and polymer processing on a final polymer product, including the microstructure and mechanical properties. (Capability 1.1, 2.1, 3.1, 4.1 and 5.1)
+Demonstrate an understanding of how entropy controls chain stretching and predicts viscoelastic behavior, and explain the effects of chain entanglements on the elastic behavior of polymers. (Capability 1.1, 2.1, 3.1 and 4.1)
+Describe the nature of ceramic materials and their classification, understand the ceramic processing, and analyze the relationships of processing, microstructure, and properties of ceramic materials toward their applications. (Capability 1.1, 2.1, 3.1 and 4.1)
+Demonstrate an understanding of of oxidation of materials and how the oxidation reactions are controlled by thermodynamic and kinetic principles. (Capability 1.1, 2.1, 3.1, 4.1 and 5.1)
+Demonstrate an understanding of of electrochemical nature of corrosion including partial reactions, electrode potential, polarisation and passivity, and Pourbaix Diagrams. Describe various corrosion forms and apply the basic knowledge to analyze the corrosion cases in industry and everyday life. (Capability 1.1, 2.1, 3.1, 4.1 and 5.1)
+Demonstrate an understanding of the corrosion behavior of various materials including metals, ceramics, and polymers, understand the effects of the environment on corrosion and apply the knowledge to select suitable materials and protection methods to control corrosion. (Capability 1.1, 2.1, 3.1, 4.1 and 5.1)
+Assessments",Final Exam Test Assignments,15,,,
+CHEMMAT,306,Process Design 2,Bachelor of Engineering (Honours),Yes,"Develop an initial economic feasibility assessment of a simple process incorporating environmental and ethical considerations (Capability 2.1, 3.1, 3.2, 4.1 and 4.2)",Assignments,15,Yes,Yes,Yes
+CHEMMAT,712,Directed Study in Chemical Engineering,Master of Engineering Studies,Yes,"Demonstrate an ability to manage and carry out an independent research project. (Capability 2.1, 3.1, 3.2, 4.1, 4.2 and 5.1)
+Demonstrate knowledge, understanding and critical assessment of relevant literature. (Capability 3.1, 3.2, 4.1 and 4.2)
+Formulate concise and rigorous arguments in describing the results of the project (Capability 2.1 and 6.1)
+Have a professional attitude to time and project management. (Capability 2.1, 6.1 and 7.1)","Report,Presentation",15,Yes,Yes,Yes
+CHEMMAT,713,Advanced Chemical Engineering,Master of Engineering Studies,Yes,"Demonstrate an ability to manage and carry out an independent research project. (Capability 2.1, 3.1, 3.2, 4.1, 4.2 and 5.1)
+Demonstrate knowledge, understanding and critical assessment of relevant literature. (Capability 2.1, 3.2 and 4.2)
+Formulate concise and rigorous arguments in describing the results of the project (Capability 2.1, 3.2 and 4.2)","Report,Presentation",15,Yes,Yes,Yes
+CHEMMAT,717,Electrochemical Engineering,N/A,,,,15,,,
+CHEMMAT,718,Aluminium Reduction Process Operations,N/A,,,,15,,,
+CHEMMAT,720,Materials Design and Processing,Master of Engineering Studies,Yes,"Demonstrate an understanding that governs new materials or materials processing design (Capability 2.1, 3.1, 4.2 and 5.1)","Group Project, Article summary and class Discussions",15,No,Yes,Yes
+CHEMMAT,721,Advanced Materials,N/A,,,,15,,,
+CHEMMAT,722,Directed Study in Materials,N/A,,,,15,,,
+CHEMMAT,723,Industrial Materials Engineering,N/A,,,,15,,,
+CHEMMAT,724,Advanced Materials Characterisation - Level 9,N/A,,,,15,,,
+CHEMMAT,725,Advanced Functional Materials,Master of Engineering Studies,Yes,"Demonstrate an understanding of the classical theories of electrical conduction and energy band/bandgap theory and be able to analyze the conduction property of complex materials. (Capability 1.1, 2.1, 3.1, 4.1 and 5.1)
+Apply the semiconducting mechanism to define intrinsic and extrinsic (p- and n-type) semiconductors, and critically evaluate doping effect and p-n junctions, demonstrate the ability to design common semiconductor devices, and microelectronic techniques. (Capability 1.1, 2.1, 3.1, 4.1 and 5.1)
+Demonstrate the ability of using the basic magnetic and superconducting properties to evaluate the properties of materials. Using the basic concept to critically evaluate the types of magnetism, magnetic domain structure, and magnetic energy. Using Hysteresis loop to analyze and calculate the properties of soft and hard magnetic materials and demonstrate the ability to use these materials for suitable applications. (Capability 1.1, 2.1, 3.1, 4.1 and 5.1)
+Critically evaluate the newest development of nanomaterials and nanotechnology, demonstrates the ability to use this knowledge to design new nanostructures for required or special applications. (Capability 1.1, 2.1, 3.1, 4.1 and 5.1)
+Create and design materials for environment cleaning and valuable materials recovery. (Capability 1.1, 2.1, 3.1, 4.1 and 5.1)
+Demonstrate the understanding of the properties and application of dielectric materials, be able to explain the mechanisms behind the uses, and demonstrate the ability to use this knowledge to design materials for sensing, actuating, and recording applications. (Capability 1.1, 2.1, 3.1, 4.1 and 5.1)
+Identify and explain the use of thermoelectric materials and demonstrate an appreciation for the uses of such materials. (Capability 1.1, 2.1, 3.1, 4.1 and 5.1)
+Demonstrate an understanding of the main reaction mechanisms of batteries, fuel cells, and supercapacitors. Critique the emerging challenges of electrochemical energy storage technologies. Demonstrate the ability of materials selection for battery cells, and be able to evaluate the performance of different types of batteries and electrode materials. (Capability 1.1, 2.1, 3.1, 4.1 and 5.1)
+Critically evaluate the operational characteristics, capacity, and performance of a battery, and be able to design suitable methods to evaluate battery performance. (Capability 1.1, 2.1, 3.1, 4.1 and 5.1)",Assignments Quizzes Final Exam,15,Yes,Yes,Yes
+CHEMMAT,726,The Light Metals Industry,N/A,,,,15,,,
+CHEMMAT,727,Materials Performance and Selection for Light Metals Processing,N/A,,,,15,,,
+CHEMMAT,750,Capstone Design Project,Bachelor of Engineering (Honours),Yes,"Identify and characterise chemical process engineering problems and formulate and execute a solution for such problems (Capability 1.1, 2.1, 3.1, 3.2, 4.1, 4.2 and 5.1)
+Incorporate and assess economic, environmental, ethical, health & safety and sustainability impacts in the process design (Capability 1.1, 2.1, 3.1, 3.2, 4.1 and 4.2)","Mid Semester Reports, Orals, End of Semester Reports",30,Yes,Yes,Yes
+CHEMMAT,752,Process Dynamics and Control,N/A,,,,15,,,
+CHEMMAT,753,Biological Materials and Biomaterials,N/A,,,,15,Yes,Yes,Yes
+CHEMMAT,754,Materials Performance Enhancement,n/a,,,,15,No,No,No
+CHEMMAT,755,Materials for Energy and Environmental Applications,N/A,,,,15,,,
+CHEMMAT,756,Food Process Engineering,N/A,,,,15,Yes,Yes,Yes
+CHEMMAT,757,Engineering Biotechnology,N/A,,,,15,No,No,Yes
+CHEMMAT,758,Resource Recovery Technologies,Master of Engineering Studies,Yes,"Illustrate understanding of resource recovery from industrial waste by describing the fundamental principles of resource recovery technologies (Capability 1.1, 2.1, 3.1, 4.1, 6.1 and 7.1)
+Apply engineering principles to resource recovery processes and cases (Capability 1.1, 2.1, 3.1, 3.2, 4.1, 4.2, 5.1, 6.1, 7.1, 8.1 and 8.2)
+Critically evaluate operational practices and facilities for resource recovery from an economic, environmental and social perspective (Capability 1.1, 2.1, 3.1, 3.2, 4.1, 4.2, 5.1, 6.1, 7.1, 8.1 and 8.2)
+Select and apply the approach to optimally select resource recovery technologies. (Capability 1.1, 2.1, 3.1, 3.2, 4.1, 4.2, 5.1, 6.1, 7.1, 8.1 and 8.2)","Assignments,Discussions,Project,Presentation",15,Yes,Yes,Yes
+CHEMMAT,759,Industry 4.0 for Chemical Engineering,Master of Engineering Studies,Yes,"Explain the role of Industry 4.0 in process industries (including materials manufacturing) (Capability 1.1, 2.1, 8.1 and 8.2)",Presentation Project Test Final Test,15,Yes,Yes,Yes
+CHEMMAT,760,Advanced Microbial Technology in Bioprocess Engineering,N/A,,,,15,No,Yes,Yes
+CHEMMAT,761,Special Topic,N/A,,,,15,,,
+CHEMMAT,762,Special Topic,N/A,,,,15,,,
+CHEMMAT,763,Waste Reduction and Recycling Technologies,Master of Engineering Studies,Yes,"Illustrate understanding of waste minimisation and recycling by describing the different methods available for decision makers to reach their goals (Capability 1.1, 2.1, 3.1, 3.2, 4.1, 4.2 and 6.1)
+Critically evaluate operational practices and facilities for waste reduction from an economic, environmental and social perspective (Capability 1.1, 2.1, 3.1, 3.2, 4.1, 4.2 and 6.1)
+Describe the steps in the recycling process (Capability 1.1, 2.1, 3.1, 3.2, 4.1, 4.2, 5.1, 6.1, 7.1, 8.1 and 8.2)
+Select and apply the approach to optimally select innovative waste reduction and re-use technologies (Capability 1.1, 2.1, 3.1, 3.2, 4.1, 4.2, 5.1, 6.1, 7.1, 8.1 and 8.2)","Assignments,Discussions,Project,Presentation",15,Yes,Yes,Yes
+CHEMMAT,772,Advanced Food Process Engineering,N/A,,,,15,No,No,Yes
+CHEMMAT,773,Food Process Systems Engineering,N/A,,,,15,Yes,Yes,Yes
+CHEMMAT,778,Dairy Process Engineering,N/A,,,,15,No,Yes,Yes
+CIVIL,200,Introduction to Geotechnical Engineering,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+CIVIL,201,Land Information Systems,Bachelor of Engineering (Honours),No,,,10,No,No,No
+CIVIL,202,Fluid Mechanics and Pipe Flow,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+CIVIL,203,Transport Design and Geomatics,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+CIVIL,210,Introduction to Structures,Bachelor of Engineering (Honours),No,,,15,No,No,No
+CIVIL,211,Structures and Design 1,Bachelor of Engineering (Honours),No,,,10,No,No,No
+CIVIL,220,Introductory Engineering Geology,Bachelor of Engineering (Honours),No,,,10,No,No,No
+CIVIL,221,Geomechanics 1,Bachelor of Engineering (Honours),No,,,10,No,no,No
+CIVIL,230,Fluid Mechanics 1,Bachelor of Engineering (Honours),No,,,10,No,No,No
+CIVIL,250,Civil Engineering Materials and Design,Bachelor of Engineering (Honours),No,,,10,No,No,No
+CIVIL,270,Directed Study,N/A,,,,5,,,
+CIVIL,271,Directed Study,N/A,,,,10,,,
+CIVIL,300,Geotechnical Engineering,Bachelor of Engineering (Honours),No,,,15,No,No,No
+CIVIL,301,Foundation Engineering,Bachelor of Engineering (Honours),No,,,15,No,No,No
+CIVIL,302,Hydrology and Open Channel Flow,Bachelor of Engineering (Honours),Yes,"Understand the hydrologic cycle and processes within the cycle (Capability 2.1)
+Apply methods of analysis of components of the hydrologic cycle (Capability 2.1, 3.1 and 3.2)
+Apply engineering design procedures for hydrologic systems (Capability 2.1, 3.1 and 3.2)",Final Exam Laboratories Quizzes Project,15,Yes,Yes,Yes
+CIVIL,303,Transport Operations and Pavements,Bachelor of Engineering (Honours),Yes,"Describe the two-way relationship between land use and the accessibility of transport modes (Capability 2.1, 3.1 and 3.2) Describe transport equity and its impact on mode choice (Capability 2.1 and 8.1)",Test Quiz Assignments Final Exam,15,Yes,Yes,Yes
+CIVIL,304,Climate Adaptation Design,Bachelor of Engineering (Honours),No,,,15,No,No,No
+CIVIL,305,Construction Informatics,Bachelor of Engineering (Honours),Yes,"Understand the integration of people, processes and digital technologies in the context of engineering and construction projects. (Capability 1.1 and 2.1)",assignments Projects,15,Yes,Yes,No
+CIVIL,312,Structures and Design 2,Bachelor of Engineering (Honours),No,,,15,No,No,Yes
+CIVIL,313,Structures and Design 3,Bachelor of Engineering (Honours),No,,,15,No,No,Yes
+CIVIL,314,Structural Dynamics,Bachelor of Engineering (Honours),No,,,10,No,No,Yes
+CIVIL,322,Geomechanics 2,Bachelor of Engineering (Honours),No,,,10,No,No,Yes
+CIVIL,324,Geomechanics 3,Bachelor of Engineering (Honours),No,,,10,No,No,Yes
+CIVIL,331,Hydraulic Engineering,Bachelor of Engineering (Honours),No,,,10,No,No,Yes
+CIVIL,332,Fluid Mechanics 2,Bachelor of Engineering (Honours),No,,,10,No,No,Yes
+CIVIL,360,Transportation Engineering 1,Bachelor of Engineering (Honours),No,,,10,No,No,Yes
+CIVIL,361,Transportation Engineering 2,Bachelor of Engineering (Honours),No,,,10,No,No,Yes
+CIVIL,370,Directed Study,N/A,,,,5,,,
+CIVIL,371,Directed Study,N/A,,,,10,,,
+CIVIL,700,Geotechnical Analysis,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+CIVIL,701,Studies in Civil Engineering 1,N/A,,,,15,,,
+CIVIL,702,Design of Earthquake Resistant Foundations,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+CIVIL,703,Project Management in Built Environments,Master of Engineering Studies,No,,,15,No,No,No
+CIVIL,704,Advanced Topics in Project Management,Master of Engineering Studies,Yes,Understand concepts and practices in sustainable project management (Capability 2.1) Demonstrate an understanding of the New Zealand context in engineering with respect to Te Tiriti o Waitangi (The Treaty of Waitangi) (Capability 1.1 and 2.1),Assignment,15,Yes,Yes,Yes
+CIVIL,706,Special Topic: Water-sensitive Cities,N/A,,,,15,,,
+CIVIL,707,Construction Supply Chain Management,Master of Engineering Studies,Yes,"Implement efficient construction site logistics, including site establishment and mobilisation, selection of appropriate plant and equipment, material and storage handling and managing health and safety throughout the supply chain. (Capability 1.1, 2.1, 3.1, 3.2, 5.1 and 6.1)
+Understand and critically evaluate the implications of on-site logistics on cost, design and schedule. (Capability 2.1, 3.1 and 5.1)
+Understand and appreciate the advantages and disadvantages of prefabrication and how to manage the supply chain and logistics of off-site manufacture. (Capability 2.1, 3.2, 5.1 and 6.1)
+Understand and apply alternative approaches for strategic management of stakeholder relationships and construction supply chain management. (Capability 1.1, 2.1, 5.1 and 6.1)
+Appreciate and manage impact of efficient construction logistics on environmental sustainability. (Capability 2.1, 3.2, 5.1 and 6.1)
+Gain an appreciation of best practice for the successful management of construction projects. (Capability 2.1, 3.2, 5.1 and 6.1)
+Have an awareness of the latest technological and sustainable advances in the field of construction. (Capability 1.1, 2.1, 3.2, 5.1 and 6.1)",Assignments Quizzes,15,Yes,Yes,Yes
+CIVIL,710,Advanced Structural Dynamics,Master of Engineering Studies,No,,,15,No,No,No
+CIVIL,711,Structures Seminar,n/a,,,,15,,,
+CIVIL,713,Structures and Design 4,Bachelor of Engineering (Honours),No,,,15,No,No,No
+CIVIL,714,Multistorey Building Design,Master of Engineering Studies,No,,,15,No,No,No
+CIVIL,715,Advanced Structural Concrete - Level 9,Master of Earthquake Engineering,No,,,15,No,No,No
+CIVIL,716,Construction Risk Management,Master of Engineering Studies,No,,,15,No,No,No
+CIVIL,717,Advanced Structural Timber,Master of Engineering Studies,No,,,15,No,No,No
+CIVIL,718,Light Gauge Steel,Master of Engineering Studies,No,,,15,No,No,No
+CIVIL,719,Matrix Structural Analysis,Bachelor of Engineering (Honours),No,,,15,No,Yes,Yes
+CIVIL,720,Earthquake Engineering,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+CIVIL,721,Foundation Engineering,Bachelor of Engineering (Honours),No,,,15,No,No,No
+CIVIL,722,Slope Engineering,Master of Engineering Studies,Yes,"Understand and appreciate various remedial, monitoring and risk management techniques with considerations of social, ethical and professional responsibilities. (Capability 1.1, 2.1, 3.1 and 4.1)
+Use lessons from case histories and apply knowledge obtained to address a real-life project, including cost-benefit analysis and impact of engineering works on slope stability. (Capability 2.1, 3.2, 4.1 and 5.1)",Case study Design Projects,15,Yes,Yes,Yes
+CIVIL,724,Soil Behaviour,N/A,,,,15,,,
+CIVIL,725,Geotechnical Earthquake Engineering,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+CIVIL,726,Engineering Geology,Bachelor of Engineering (Honours),Yes,"Demonstrate an understanding of of the design requirements of dams, canals, tunnels, large underground openings, large buildings and viaducts so as to be able to assess the engineering geological requirements of these engineering structures (Capability 2.1, 4.2, 5.1 and 6.1)
+Demonstrate an understanding of the procedures of geotechnical data extraction and analysis from outcrops, drillhole cores, aerial photographs, maps and literature (Capability 3.1, 4.2, 5.1 and 6.1)
+Demonstrate sufficient ability and knowledge to make useful engineering geological maps and logs for a variety of rock and soil masses. (Capability 1.1, 2.1, 3.1, 3.2, 4.1 and 4.2)
+Demonstrate an understanding of the application of engineering geological models. (Capability 1.1, 2.1, 3.1, 3.2, 4.1, 4.2, 5.1 and 6.1)
+Read the ground – i.e. be able to interpret geomorphology in a way that contributes to geotechnical engineering and environmental assessment. (Capability 1.1, 2.1, 4.2, 5.1 and 6.1)
+Discuss the sources of uncertainties in the engineering geology models and the concepts of representative volumes and scale effects. (Capability 1.1, 2.1, 3.2, 4.2 and 5.1)",Final Exam Laboratories,15,Yes,Yes,Yes
+CIVIL,727,Dynamics of Structures in Earthquakes,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+CIVIL,728,Geotechnical Engineering in Professional Practice,Master of Engineering Studies,No,,,15,No,No,No
+CIVIL,729,Humanitarian Engineering,Bachelor of Engineering (Honours),Yes,"Demonstrate their understanding of the grand humanitarian challenges facing marginalised communities today in New Zealand, the Pacific region and globally. (Capability 2.1, 8.1 and 8.2)
+Design aid policies, protocols, procedures and practices for immediate and long-term humanitarian response services and operations. (Capability 1.1, 2.1, 3.1, 3.2, 4.1, 5.1, 6.1, 8.1 and 8.2)
+Identify and compare different frameworks used in the humanitarian engineering field to assist with human crises, including shelter, standards, law, human rights, resilience, and engineering application. (Capability 1.1, 2.1, 3.1, 3.2, 4.1, 5.1, 6.1, 8.1 and 8.2)
+Design engineering solutions for addressing shelter, water, sanitation and hygiene, poverty, climate change, sustainability challenges or a particular humanitarian issue. (Capability 1.1, 2.1, 3.1, 3.2, 4.1, 5.1, 6.1, 8.1 and 8.2)
+Assess local capacity, training and education elements in implementing technology in a particular context. (Capability 1.1, 2.1, 3.1, 3.2, 4.1, 6.1, 8.1 and 8.2)",Quizzes NEMA Unit standards Final Exam,15,Yes,Yes,Yes
+CIVIL,731,Water Resources Modelling,Master of Engineering Studies,No,,,15,No,No,No
+CIVIL,732,Coastal Engineering Design,Master of Engineering Studies,No,,,15,No,No,No
+CIVIL,733,Coastal Engineering Dynamics,Master of Engineering Studies,No,,,15,No,No,No
+CIVIL,734,River Engineering,Master of Engineering Studies,No,,,15,No,no,No
+CIVIL,735,Transport Modelling and Design,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+CIVIL,736,Transport Safety and Mobility,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+CIVIL,737,Coastal Modelling,Master of Engineering Studies,No,,,15,No,No,No
+CIVIL,738,Construction 4.0: The Future of Construction,Master of Engineering Studies,Yes,"Demonstrate an understanding of the process and components of construction in diverse social and cultural contexts (Capability 1.1, 2.1 and 3.2)
+Create possible pathways for technology implementation (Capability 1.1, 2.1 and 3.2)
+Apply the knowledge learned in real construction projects (Capability 3.1, 4.2 and 5.1)
+Apply new and emerging technologies to improve construction productivity and sustainability (Capability 2.1, 3.2, 4.2 and 5.1)
+Critically evaluate the benefits and challenges associated with building materials and new technologies at an organisational level (Capability 2.1, 3.2, 4.1 and 5.1)", Assignments Project Presentation,15,Yes,Yes,Yes
+CIVIL,740,Studies in Civil Engineering 3,N/A,,,,15,,,
+CIVIL,741,Ground Improvements and Geosynthetics Engineering,Bachelor of Engineering (Honours),No,,,15,No,No,No
+CIVIL,742,Bridge Design,Master of Engineering Studies,No,,,15,No,No,No
+CIVIL,743,Special Topic: Building Information Modelling,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+CIVIL,744,Special Study in Earthquake Engineering,Master of Earthquake Engineering,No,,,15,No,No,No
+CIVIL,745,Seismic Assessment of Existing Buildings - Level 9,Master of Earthquake Engineering,Yes,"Conduct a seismic assessment of an existing building, from initial evaluation to detailed assessment. (Capability 2.1, 3.1, 3.2, 4.1 and 4.2)
+Model the seismic response of existing buildings. (Capability 2.1, 3.1, 3.2, 4.1 and 4.2)
+Consider the uncertainties in seismic response and capacity in the assessment of existing buildings. (Capability 2.1 and 3.1)",Quizzes Assignments Project,15,Yes,Yes,Yes
+CIVIL,746,Nonlinear Structural Analysis,Master of Earthquake Engineering,No,,,15,No,Yes,Yes
+CIVIL,750,Timber Engineering,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+CIVIL,754,Geotechnical Modelling,N/A,,,,15,,,
+CIVIL,756,Capstone Project,Bachelor of Engineering (Honours),Yes,"Assess and integrate stakeholder requirements, including Treaty of Waitangi and Resource Management Act requirements, and incorporating social, environmental, sustainability and ethical considerations. (Capability 1.1, 2.1, 6.1, 7.1, 8.1 and 8.2)"," Preliminary Report(s) Presentations, Interviews, and In-Class Discussion Final Report",15,Yes,Yes,Yes
+CIVIL,761,Planning and Design of Transport Facilities,Master of Engineering Studies,No,,,15,No,No,Yes
+CIVIL,762,Transport Planning and Modelling,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+CIVIL,763,Smart Infrastructure Analytics,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+CIVIL,764,Highway Safety and Operations,Master of Engineering Studies,No,,,15,Yes,No,Yes
+CIVIL,765,Infrastructure Asset Management - Level 9,Master of Engineering Studies,Yes,"Demonstrate an understanding of highly specialised knowledge in the field of infrastructure asset management. The course is informed by industry best practices and by the research of the lecturers as well as other leaders in the field (and is therefore at the forefront of knowledge in this area) and, through this, develops a critical awareness of the key issues encountered in practice by infrastructure asset managers and researchers. (Capability 2.1)",Assignments Final Exam Quizzes,15,Yes,Yes,Yes
+CIVIL,766,Transportation Asset Management,Master of Engineering Studies,No,,,15,No,No,Yes
+CIVIL,767,Pavement Analysis and Design,Master of Engineering Studies,No,,,15,No,No,No
+CIVIL,769,Highway Geometric Design,Master of Engineering Studies,No,,,15,No,Yes,No
+CIVIL,770,Transport Systems Economics,Master of Engineering Studies,Yes,"Explain and critically evaluate the Principles of Transport Economics including the theory of Supply and Demand of Transport (Capability 2.1, 3.1, 4.1, 5.1 and 6.1)
+Demonstrate an understanding of Congestion Pricing, Externality Costs and Tolling Theory (Capability 2.1, 3.1, 4.1, 5.1 and 6.1)
+Identify, describe and analyse the theory and benefits of Public Transport and shared transport modes. (Capability 2.1, 3.1, 4.1, 5.1 and 6.1)
+Explain, evaluate and apply the concepts of Wider Economic Benefits and Agglomeration (Capability 2.1, 3.1, 4.1, 5.1 and 6.1)
+Develop and demonstrate an understanding of the Business Case Model and Cost-Benefit Analysis (Capability 2.1, 3.1, 4.1, 5.1 and 6.1)",Research Report Test Final Exam,15,Yes,Yes,Yes
+CIVIL,771,Planning and Managing Transport,Master of Engineering Studies,Yes,"Demonstrate and apply the linkages between Land Use and Transport Planning Practice used in the New Zealand context (Capability 1.1, 2.1, 3.1, 4.1 and 6.1)
+Explain and apply the basic Transportation Engineering techniques used in the management of Transport on Road and Rail in New Zealand. (Capability 1.1, 2.1, 3.1, 4.1 and 6.1)
+Identify and explain the various legislative, regulatory, administrative and structural organisations which provide the framework that underpin the NZ transport industry (Capability 1.1, 2.1, 3.1, 4.1 and 6.1)
+Identify and critically evaluate the benefits of providing a multi-modal transport system of passenger and freight transport within New Zealand (Capability 1.1, 2.1, 3.1, 4.1 and 6.1)
+Research and communicate future developments and challenges that will face the NZ Transport Industry (Capability 1.1, 2.1, 3.1, 4.1 and 6.1)
+Assessments",Assignment Research Report Presentations Test Quiz,15,Yes,Yes,Yes
+CIVIL,773,Sustainable Transport: Planning and Design,Master of Engineering Studies,Yes,"Understand and critically evaluate urban transport sustainability, need for mobility and urban transport futures (Capability 1.1 and 2.1)",Assignment Final Exam,15,No,Yes,No
+CIVIL,774,Studies in Transportation 1,Master of Engineering Studies,No,,,15,No,No,No
+CIVIL,781,Civil Engineering Planning and Execution,Master of Civil Engineering,Yes,"Demonstrate an understanding of of the construction project life-cycle and stakeholders requirements, and apply such knowledge to develop plans to address multiple stakeholder motivations while also maintaining compliance with the relevant government legislation and local body processes. (Capability 1.1, 2.1, 3.1 and 8.1) Generate civil engineering project plans to address the requirements of relevant acts, including the Resource Management Act (1991), the proposed Natural and Built Environments Act (NBA), the Strategic Planning Act (SPA) and the Climate Change Adaption Act (CAA), the Building Act and Standards, Resource and Building Consents, and Compliance Certification and Producer Sto generate civil engineering project plans to address the requirements of relevant acts, including the Resource Management Act (1991), the proposed Natural and Built Environments Act (NBA), the Strategic Planning Act (SPA) and the Climate Change Adaption Act (CAA), the Building Act and Standards, Resource and Building Consents, and Compliance Certification and Producer Statements. (Capability 1.1, 2.1, 3.1 and 8.1) Apply knowledge of the Health and Safety at Work Act 2015 to civil engineering scenarios, including ability to identify obligations and responsibilities of all project stakeholders such as clients, consultants, contractors, and suppliers. The emphasis is on the practical application of the Act using critical thinking skills to synthesize implementation plans in compliance with requirements of health and safety practices to civil engineering scenarios. (Capability 1.1, 2.1, 3.1, 5.1, 8.1 and 8.2)",Assignments and Quizzes Final Exam,15,Yes,Yes,Yes
+CIVIL,782,Water Resources Engineering,Bachelor of Engineering (Honours),Yes,"Develop, design and justify hydraulic structures for flood mitigation purposes (Capability 2.1, 3.1, 3.2, 4.1, 4.2 and 5.1)
+Design and optimise hydro-electric power systems to make efficient use of the annual flows at a particular site, considering the effects of storage and accounting for water hammer effects (Capability 2.1, 3.1, 3.2, 4.1, 4.2, 5.1 and 6.1)",Final Exam Projects,15,Yes,Yes,Yes
+CIVIL,783,Water Distribution System Modelling and Analysis,n/a,,,,15,,,
+CIVIL,790,Civil Engineering Administration,Master of Engineering Studies,Yes,"Demonstrate and demonstrate an appreciation of the project life-cycle, an understanding of stakeholders, their motivation, and the relationships between them as well as the relevant government legislation and local body processes including the Resource Management Act (1991), the Building Act and Standards, Resource and Building Consents, Compliance Certification and Producer Statements. (Capability 1.1, 2.1, 3.1 and 8.1)
+Demonstrate working knowledge of the Health and Safety at Work Act 2015, and its practical application in civil engineering, including obligations and responsibilities of all project stakeholders including clients, consultants, contractors, and suppliers. The emphasis is on the practical application of the act. (Capability 1.1, 2.1, 3.1, 5.1, 8.1 and 8.2)",Assignments and Quizzes Final Exam,15,Yes,Yes,Yes
+CIVIL,791,Construction Management,Master of Engineering Studies,Yes,"Recognise the impact of sustainability and digital technologies on the construction industry, preparing for future challenges and opportunities. (Capability 2.1 and 3.2)",Assignments Final Exam,15,Yes,Yes,Yes
+CIVIL,792,Discrete-event Simulation in Construction,N/A,,,,15,,,
+COMPSYS,201,Fundamentals of Computer Engineering,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+COMPSYS,209,Computer Systems Design,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+COMPSYS,301,Design: Hardware Software Systems,Bachelor of Engineering (Honours),Yes,"Understand and critically evaluate the project brief and hence 1) Create a detailed set of specifications and 2) Create a project plan for the completion of the objectives. (Capability 2.1, 3.1, 3.2 and 4.1)","Discussions,Test,Reports",15,Yes,Yes,Yes
+COMPSYS,302,Design: Software Practice,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+COMPSYS,303,Microcomputers and Embedded Systems,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+COMPSYS,304,Computer Architecture,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+COMPSYS,305,Digital Systems Design,Bachelor of Engineering (Honours),Yes,"Use modern design methodology based on a hardware description language (VHDL) to design complex digital systems (Capability 2.1 and 5.1) Analyse the important architectural components such as memory and clock networks of FPGA, extract design parameters, evaluate them and apply design trade-offs for the application (Capability 2.1, 3.2 and 4.2)",Laboratories Test Mini-Project Final Exam,15,Yes,Yes,Yes
+COMPSYS,306,Artificial Intelligence and Machine Learning,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+COMPSYS,701,Advanced Digital Systems Design - Level 9,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+COMPSYS,704,Advanced Embedded Systems,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+COMPSYS,705,Formal Methods for Safety Critical Software,Master of Engineering Studies,Yes,"Explain and critically evaluate solutions of safety critical system design (Capability 2.1, 5.1 and 6.1)",Final Exam Assignments,15,Yes,Yes,Yes
+COMPSYS,708,Special Topic,N/A,,,,15,,,
+COMPSYS,710,Studies in Computer Systems Engineering 1,N/A,,,,15,,,
+COMPSYS,711,Studies in Computer Systems Engineering 2,N/A,,,,15,,,
+COMPSYS,713,Studies in Computer Systems Engineering 4,N/A,,,,15,,,
+COMPSYS,714,Studies in Computer Systems Engineering 5,N/A,,,,15,,,
+COMPSYS,715,Studies in Computer Systems Engineering 6,N/A,,,,15,,,
+COMPSYS,721,Machine Intelligence and Deep Learning,Bachelor of Engineering (Honours),Yes,"Demonstrate an understanding of Gain a detailed understanding of cutting-edge research in machine learning and deep (Capability 2.1, 3.1, 3.2 and 5.1)
+Apply Develop the toolset for setting up deep learning tasks and practical engineering tricks for training and fine-tuning deep neural networks. (Capability 2.1, 3.2, 4.2 and 5.1)
+Be able to Train the Jetson Nano module to do object tracking and face recognition tasks. (Capability 3.1, 3.2 and 5.1)
+Analyse Engage in lab exercises and real-world scenarios to practice skills in applying algorithms to machine learning challenges. (Capability 2.1, 3.2 and 4.1)
+Demonstrate an understanding of Present and document project outcomes effectively (Capability 2.1, 3.1, 3.2, 4.2 and 5.1)",Laboratories Test Case Studies Project,15,Yes,no,No
+COMPSYS,722,Special Topic,N/A,,,,15,,,
+COMPSYS,723,Embedded Systems Design,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+COMPSYS,725,Distributed Cyber-Physical Systems Design,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+COMPSYS,726,Robotics and Intelligent Systems,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+COMPSYS,727,Model-based Embedded Systems Design,N/A,,,,15,,,
+COMPSYS,728,Special Topic,N/A,,,,15,,,
+COMPSYS,729,Special Topic,N/A,,,,15,,,
+COMPSYS,730,Robotics and Society,Master of Robotics and Automation Engineering,No,,,15,Yes,Yes,Yes
+COMPSYS,731,Human-Robot Interaction,Master of Engineering,No,,,15,Yes,Yes,Yes
+COMPSYS,732,Mobile Autonomous Robotics,Master of Robotics and Automation Engineering,No,,,15,Yes,Yes,Yes
+COMPSYS,770,Capstone Project,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+DESIGN,100,Design Methods and Processes 1,Bachelor of Design,No,,,30,Yes,Yes,Yes
+DESIGN,101,Design Theory and Fundamentals,Bachelor of Design,Yes,"Demonstrate familiarity with ethical and sustainable practices in design in relation to local culture and practices, and to the historical antecedents of design. (Capability 1.1, 1.2, 1.3, 2.1, 8.1, 8.3 and 8.4)","Annotated Bibliography, Essay, Final Exam",15,Yes,Yes,Yes
+DESIGN,102G,Design for Sustainable Futures,University,Yes,"Identify and analyse a selection of critically recognised design solutions using research methods and evaluation techniques introduced. (Capability 2, 3 and 4)
+Research and present a design solution in response to a given global challenge for a specific social context (Capability 1, 2, 3, 4, 5, 6, 7 and 8)
+Demonstrate a familiarity with design as a socio-technical phenomenon and formulate a position in relation to this (Capability 1, 2, 4, 5 and 8)",Design Reviews Design Project Reflection Peer Feedback,15,Yes,Yes,Yes
+DESIGN,200,Design Methods and Processes 2,Bachelor of Design,No,,,30,Yes,Yes,Yes
+DESIGN,201,Creative Communities,Bachelor of Design,No,,,15,Yes,Yes,Yes
+DESIGN,210,"Identity, Indigeneity and Place",Bachelor of Design,No,,,15,No,No,Yes
+DESIGN,211,Aotearoa New Zealand Narratives,Bachelor of Design,No,,,15,Yes,Yes,Yes
+DESIGN,212,Local Making,Bachelor of Design,No,,,15,Yes,Yes,Yes
+DESIGN,213,Food Design,Bachelor of Design,Yes,"Demonstrate familiarity with the complex social, technical and ecological food system from global and local Aotearoa and Pacific contexts. (Capability 1.1, 1.2, 1.3, 2.1, 4.1, 4.2, 6.1 and 6.2)
+Develop a personalised design skill set that is critically inspired by traditional, contemporary and future approaches to food systems change (Capability 1.1, 1.2, 1.3, 2.2, 3.2, 4.1, 4.2, 5.1, 5.2, 7.1, 8.1, 8.2, 8.3 and 8.4)
+Develop familiarity with presenting work and critiquing the work of others in a studio pedagogical context (Capability 2.1, 3.1, 6.1, 6.2, 7.1, 8.1, 8.2, 8.3 and 8.4)",Assignment Presentation,15,Yes,Yes,Yes
+DESIGN,214,"Special Topic: Transdisciplinary Project in Design, Housing & Hauora",,,,,15,,,
+DESIGN,220,Design Innovation,Bachelor of Design,No,,,15,Yes,Yes,Yes
+DESIGN,221,Professional Design Practice,Bachelor of Design,Yes,"Develop an understanding of professional design practices, including pricing, marketing, self-promotion, and different work models in the design industry. (Capability 2.1, 3.1, 3.2, 6.1, 6.2, 7.1, 8.1 and 8.2)",Skills practice,15,Yes,Yes,Yes
+DESIGN,222,Business Tools for Designers,,,,,15,No,No,No
+DESIGN,223,Game Design,Bachelor of Design,No,,,15,Yes,Yes,Yes
+DESIGN,224,Special Topic: Visual Communication,Bachelor of Design,Yes,"Apply visual communication principles, concepts and skills, including colour theory, typography, and layout, to create static compositions and documents that meet a brief. (Capability 1.1, 1.2, 2.1, 3.1, 3.2, 4.1, 4.2, 6.1, 6.2, 8.1, 8.2, 8.3 and 8.4) Demonstrate familiarity with iteratively developing a design project while reflectively documenting a process and its evolution through successive and prototypes  (Capability 1.1, 1.2, 2.1, 3.1, 3.2, 4.1, 4.2, 5.1, 5.2, 6.1, 8.1, 8.2, 8.3 and 8.4) ","Research and initial design concept, brand campaign identity guideline and application, video production, design journal",15,Yes,No,No
+DESIGN,230,"Design, Wellbeing and Communities",Bachelor of Design,Yes,"Develop an understanding of service and experience design tools, methods and processes by creating alternative solutions for community wellbeing. (Capability 2.2, 3.1 and 4.1)","Design reflection practise, Design research and concept, Design develop, prototype, and presentation",15,Yes,Yes,Yes
+DESIGN,231,The Future of Work and Play,Bachelor of Design,Yes,"Develop an understanding of the application of design tools, methods and processes to a forecasting or “futuring” context through case study. (Capability 2.2, 3.1, 3.2, 4.2, 5.1, 5.2 and 6.2)","Scenario modelling, final project",15,Yes,Yes,Yes
+DESIGN,232,Smart Homes and Cities,Bachelor of Design,Yes,"Demonstrate familiarity with theories and tools required to map interconnected systems and sophisticated networks that make up a city's infrastructure ecosystem. (Capability 2.1, 3.1, 3.2, 4.1 and 4.2)
+Develop an understanding of design tools, methods and processes by conceptualising and proposing solutions for present or future contexts. (Capability 2.1, 2.2, 3.1, 3.2, 4.1, 4.2, 5.1, 5.2, 6.1, 6.2, 7.2, 8.1, 8.2 and 8.4) ","Quizzes, Concept design, Developed design & pitch, Reflection",15,Yes,No,Yes
+DESIGN,233,Design for the Natural Environment,Bachelor of Design,Yes,"Develop and demonstrate critical thinking towards the nature of global, systemic/wicked problems. (Capability 1.1, 1.3, 2.1, 7.1 and 8.1) Understand and apply different design models for developing design solutions in the fields of environmental sustainability and conservation. (Capability 2.2, 3.2, 4.1 and 5.1) ","Positionality reflection, Concept-level solution, Refined solution",15,Yes,Yes,Yes
+DESIGN,240,Designing with Data,Bachelor of Design,Yes,"Demonstrate familiarity with the historical, cultural, economic and sustainability issues impacting Aotearoa. (Capability 1.2, 1.3 and 2.1) Develop the ability to create a data-driven argument to (i) support a decision, (ii) advance a point of view, (iii) propose a course of action. (Capability 1.1, 1.3, 2.1, 5.2 and 8.1) ",Assignments,15,Yes,Yes,Yes
+DESIGN,241,Designing Mixed Realities,Bachelor of Design,Yes,"Demonstrate evidence of engagement with cultural, political, global, historical and ecological contexts and content. (Capability 2.1, 3.1 and 4.2)","Project brief, Project development and iteration, Presentation and reflection",15,Yes,Yes,Yes
+DESIGN,242,Design and Autonomous Technology,Bachelor of Design,No,,,15,Yes,Yes,Yes
+DESIGN,243,Design and Assistive Technologies,Bachelor of Design,Yes,"Develop a traditional and/or digital skill-set in addition to requisite health sector assistive technology skills to convincingly prototype a new interface, material, process and user experience. (Capability 2.1, 2.2, 3.1, 3.2, 5.2, 8.1 and 8.2)","Project, Prototype",15,Yes,Yes,Yes
+DESIGN,300,Design Research Methodologies,Bachelor of Design,Yes,"Develop a theoretical basis for the development of the Capstone project. (Capability 1.1, 2.2, 3.1, 4.1, 6.1 and 8.1)
+Become conversant with appropriate methodologies of review and analysis. (Capability 1.1, 2.1, 3.1, 4.1, 4.2, 5.1, 6.2, 7.1 and 8.1) Effectively communicate a design project proposal justified by appropriate background-contextual research. (Capability 1.2, 1.3, 2.2, 3.2, 4.1, 4.2, 5.2, 6.2, 7.1, 7.2, 8.1, 8.2, 8.3 and 8.4)","Design toolkit comparison, Design Project Proposal, Peer-review readings and studio culture",15,Yes,Yes,Yes
+DESIGN,303,Design Research Practice,Bachelor of Design,No,,,15,Yes,No,No
+DESIGN,304,Advanced Design Methods Capstone,Bachelor of Design,Yes,"Activate and customise key methodologies and design tools, and develop new ones applicable to design research and capstone development. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 3.2, 4.1, 4.2, 5.2, 6.2, 7.1, 7.2, 8.1, 8.3 and 8.4) Iteratively develop a capstone design project while documenting the process and its evolution through successive prototypes and reflections. (Capability 1.1, 1.2, 2.2, 3.1, 3.2, 4.1, 4.2, 5.1, 5.2, 6.2, 7.1, 7.2, 8.1, 8.2, 8.3 and 8.4) Demonstrate ability to engage in and activate a local design context. (Capability 1.1, 1.2, 1.3, 2.2, 3.2, 4.2, 6.1, 6.2, 7.1, 7.2, 8.3 and 8.4)","Plan and propose, Design solution, Studio engagement and project management, Exhibition",45,Yes,No,No
+DESIGN,700,Design Research Methodologies,Master of Design,Yes,"Explore a range of research methodologies relevant to the written and spoken discourses that accompany the production of contemporary design. (Capability 1.3, 2.2, 3.1, 3.2, 4.1, 5.1, 8.2 and 8.3)
+Reflect on the motives, contexts and methods of contemporary design practices, including the identification of new questions relevant to a chosen field of design production. (Capability 1.1, 1.2, 1.3, 2.1, 3.1, 4.1, 5.1, 5.2, 6.1, 6.2, 7.1, 8.1, 8.2 and 8.3)
+Communicate the motives, contexts and methods of contemporary design practices. (Capability 1.1, 1.2, 1.3, 2.1, 3.1, 4.1, 5.1, 5.2, 6.1, 6.2, 7.1, 7.2, 8.1, 8.2, 8.3 and 8.4)
+Understand how research practices can give consideration to and reflect upon Tikanga Māori values. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 5.1, 5.2, 6.1, 6.2, 7.1, 7.2, 8.1, 8.3 and 8.4)","Design Jam, Reflective reading responses, Design toolkit, Design research proposal",15,Yes,Yes,Yes
+DESIGN,701,Design Practices,Master of Design,Yes,"Develop the material, conceptual and contextual aspects of design practices. (Capability 2.1, 3.1, 3.2, 4.1, 5.1, 5.2, 6.1, 8.1, 8.2 and 8.3)
+Develop advanced design skills that include a range of material, conceptual and contextual methodologies and understand how to apply these to design production. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 3.2, 4.1, 5.2, 6.2, 7.1, 7.2, 8.1, 8.3 and 8.4)
+Understand how aspects of Tikanga relate to contemporary design practices (Capability 1.1, 1.2, 2.1, 2.2, 3.1, 4.1, 5.1, 5.2, 6.1, 6.2, 7.1, 7.2, 8.1, 8.2, 8.3 and 8.4) ","Introductory project, Practices report, Reflections, Peer-review, Workshops",15,Yes,Yes,Yes
+DESIGN,702,Design Technologies,Master of Design,Yes,"Develop advanced skills in a range of design technologies in order to support the generation and exploration of design outcomes (Capability 1.2, 2.2, 3.1, 4.1, 5.1, 6.1, 6.2, 7.2, 8.1 and 8.3)
+Critically apply knowledge of the contexts and concepts associated with the production of design outcomes through sophisticated experimentation with designated technologies. (Capability 1.2, 2.1, 3.1, 4.1, 5.1, 6.1, 6.2, 7.2, 8.1 and 8.3)
+Develop skills in idea generation, material realisation and communication in relation to the critical and reflective production of design outcomes. (Capability 1.1, 2.1, 2.2, 3.1, 4.1, 5.1, 6.1, 6.2, 7.2, 8.1 and 8.3)
+Demonstrate ability to incorporate, as appropriate, a range of technological development methods for realising design outputs. (Capability 1.1, 1.2, 2.1, 2.2, 3.2, 4.1, 5.1, 6.1, 6.2, 7.2, 8.3 and 8.4) ","Project 1 : Evolve + Adapt, Project 2 : Propose + Prototype, Presentations",30,Yes,Yes,Yes
+DESIGN,704,Design Impacts,Master of Design,Yes,"Develop an advanced critical understanding of how design can respond to and deliver change (Capability 1.1, 1.2, 2.1, 2.2, 4.1, 5.2 and 8.1)
+Demonstrate the ability to recognise, identify and critically analyse the impact of design interventions through the lens of existing impact frameworks (Capability 2.1, 3.2 and 4.1)
+Identify and critically evaluate intended and unintended impacts of your design interventions through the development of a custom impact framework (Capability 1.3, 2.2, 4.1 and 5.2)
+Effectively communicate life cycle impacts to a specific audience (Capability 1.1, 1.2, 2.1, 6.2, 8.1 and 8.4)","Case Study Analysis of High Impact Design Solutions, Custom Impact Evaluation Framework, Impact Communication (life cycle story), Presentation",15,Yes,Yes,Yes
+DESIGN,705,Design Futures,Master of Design,Yes,"Develop effective means to identify and analyse potential future challenges. (Capability 1.1, 2.1, 2.2, 3.1, 4.1 and 6.2)
+Develop a critical understanding of future challenges and their different impacts on human and environmental situations. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 3.1 and 4.1)
+Identify and develop practical and meaningful potential responses to future challenges through design-related initiatives. (Capability 2.1, 2.2, 3.2, 4.1, 5.1 and 5.2)","Visual Narrative Development,				
+Visual Narrative for Preferred Alternative Futures",15,Yes,Yes,Yes
+DESIGN,706,Design Innovation,Master of Design,Yes,,,30,Yes,No,No
+DESIGN,709,Project Design,Master of Design,Yes,"To develop advanced skills in the creation and management of a specific design project (Capability 1.1, 1.2, 2.1, 2.2, 3.1, 3.2, 4.1, 5.1, 5.2, 6.1, 6.2, 7.1, 7.2, 8.1, 8.3 and 8.4) To develop strategies and methods to realise a design project that takes account of the different relevant contexts of that project (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 4.1, 6.1, 6.2, 7.1, 7.2, 8.1, 8.2, 8.3 and 8.4)","Project proposal charettes,				
+Project proposal formative,				
+Project proposal summative,				
+Self reflection, incl. self and peer assessment",15,Yes,No,No
+DESIGN,710,Capstone Project,,,,,60,,,
+DESIGN,711,Special Topic,Master of Design,Yes,"Develop and demonstrate understanding of the invention-innovation distinction as it pertains to designers and designing. (Capability 1.1, 2.1, 3.1, 3.2, 4.1, 5.1, 5.2, 6.2, 7.2 and 8.4)
+Develop and demonstrate a critical understanding of innovation diffusion: adoption or uptake, barriers to it, and strategies to mitigate diffusion risks. (Capability 1.1, 1.2, 2.1, 2.2, 3.1, 4.1, 5.2, 6.2, 7.1 and 8.4)
+Understand and critically evaluate what innovation and innovation mindset mean within wider professional practice, referencing current design study as well as previous educational, personal and professional experience. (Capability 1.1, 1.2, 2.1, 2.2, 3.1, 3.2, 4.1, 5.2, 6.2, 7.1, 8.1, 8.2, 8.3 and 8.4)
+Demonstrate an understanding of a diversity of perspectives on what innovation means in various societies, cultures and contexts, including evaluation of ethical implications of novel socio-technical arrangements. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 3.1, 4.1, 5.2, 6.1, 6.2, 7.1, 7.2, 8.1, 8.3 and 8.4)
+Develop an understanding of the possibilities and constraints around own and others' innovations, considering resources, contexts, and individual agency. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 3.1, 3.2, 4.1, 5.1, 5.2, 6.1, 6.2, 7.1, 7.2, 8.2, 8.3 and 8.4)","Analysis and audit of an innovation, Analysis of innovation contexts: possibilities, obstacles, risks, Innovation analysis of design proposal",15,Yes,No,No
+DISMGT,701,Disaster Risk Management - Level 9,Master of Disaster Management,No,,,15,Yes,Yes,Yes
+DISMGT,703,Disaster Management and Resilience,Master of Disaster Management,No,,,15,Yes,Yes,Yes
+DISMGT,705,Special Topic,,,,,15,,,
+DISMGT,706,Special Topic,,,,,15,,,
+ELECTENG,101,Electrical and Digital Systems,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ELECTENG,204,Engineering Electromagnetics,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ELECTENG,209,Analogue and Digital Design,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ELECTENG,291,Fundamentals of Electrical Engineering,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ELECTENG,292,Electronics,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ELECTENG,305,Applied Electronics,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ELECTENG,307,Fields and Waves,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ELECTENG,309,Power Apparatus and Systems,Bachelor of Engineering (Honours),Yes,"Understand the characteristics and use of various high voltage substation equipment (Capability 2.1, 8.1 and 8.2)",Final exam,15,Yes,Yes,Yes
+ELECTENG,310,Electrical Engineering Design 1,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ELECTENG,311,Electrical Engineering Design 2,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ELECTENG,331,Signals and Systems,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ELECTENG,332,Control Systems,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ELECTENG,701,Mobile Wireless Engineering,,,,,15,,,
+ELECTENG,703,Advanced Power Systems,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+ELECTENG,704,Advanced Control Systems,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+ELECTENG,706,Topics in Digital Signal Processing,,,,,15,,,
+ELECTENG,711,Studies in Electrical and Electronic Engineering 1,,,,,15,,,
+ELECTENG,712,Studies in Electrical and Electronic Engineering 2,,,,,15,,,
+ELECTENG,713,Studies in Electrical and Electronic Engineering 3,,,,,15,,,
+ELECTENG,714,Studies in Electrical and Electronic Engineering 4,,,,,15,,,
+ELECTENG,715,Studies in Electrical and Electronic Engineering 5,,,,,15,,,
+ELECTENG,716,Studies in Electrical and Electronic Engineering 6,,,,,15,,,
+ELECTENG,721,Radio Engineering,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ELECTENG,722,Modern Control Systems,Bachelor of Engineering (Honours),Yes,Analyse nonlinear systems using both phase plane and describing point methods including the bifurcation analysis (Capability 2.1),Final exam,15,Yes,Yes,Yes
+ELECTENG,724,Special Topic,,,,,15,,,
+ELECTENG,726,Digital Communications,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ELECTENG,731,Power Systems,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ELECTENG,732,Communication Systems,,,,,15,,,
+ELECTENG,733,Digital Signal Processing,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ELECTENG,734,Power Electronics,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+ELECTENG,735,Green Energy Technologies,,,,,15,,,
+ELECTENG,736,Analog and Digital Filter Synthesis,,,,,15,,,
+ELECTENG,737,Advanced Radio Engineering - Level 9,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+ELECTENG,738,Selected Topics in Advanced Power Systems,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+ELECTENG,739,Special Topic,,,,,15,,,
+ELECTENG,740,Special Topic,,,,,15,,,
+ELECTENG,741,Advanced Digital Communications - Level 9,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+ELECTENG,770,Capstone Project,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENERGY,721,Energy Resources,Master of Energy,Yes,"Understand and critically evaluate climate change models (Capability 2.1, 3.1, 4.1 and 5.1) Explain and critically evaluate oil and gas policies (Capability 2.1, 3.1, 4.1 and 6.1)  Understand and apply NPV analysis around investments and the impact of government policy (Capability 2.1, 3.1 and 4.1)Understand and critically evaluate the connections within energy systems. (Capability 2.1, 3.1, 4.1 and 6.1)",Assignments,15,Yes,Yes,Yes
+ENERGY,722,Energy Technology,Master of Energy,Yes,Identify relations between water and energy resources and challenges. (Capability 2.1 and 3.1),Assignments,15,Yes,Yes,Yes
+ENGGEN,102,Basic Skills for Engineering,,,,,15,,,
+ENGGEN,115,Principles of Engineering Design,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENGGEN,121,Engineering Mechanics,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENGGEN,131,Introduction to Engineering Computation and Software Development,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENGGEN,140,Fundamentals of Engineering in Society,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENGGEN,204,"Professional Skills, Communication, and Collaboration",Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENGGEN,299,Workshop Practice,Bachelor of Engineering (Honours),No,,,0,Yes,Yes,Yes
+ENGGEN,303,Innovation and Business Cases,Bachelor of Engineering (Honours),Yes,"Examine and assess opportunities for innovation in the context of the UN Sustainable Development Goals. (Capability 2.1 and 5.1) Identify and apply the important and relevant financial and social considerations in developing a business case. (Capability 2.1, 5.1 and 6.1) Prepare and present a business case for an innovation project that shows consideration and critical assessment of the project's economic viability, technical feasibility, desirably and sustainability. The report and presentation includes a comprehensive project management plan for the innovation's delivery. (Capability 2.1, 5.1, 6.1 and 7.1)","Tests, tutorial participation, assignments, projects",15,Yes,Yes,Yes
+ENGGEN,388,Leadership in Engineering,,,,,0,,,
+ENGGEN,403,Systems Thinking,Bachelor of Engineering (Honours),Yes,"Develop and present a value-adding and sustainable solution that applies the principles of systems thinking and innovation to a real-world Systems-level problem. (Capability 1.1, 2.1, 4.1, 4.2, 5.1, 6.1 and 7.1) Prepare and present a business case which includes an analysis of the background and root cause of a complex problem, a recommendation supported by a Desirability/Feasibility/Viability framework, financial analyses, sustainability frameworks, stakeholder considerations, and opportunity analyses. (Capability 1.1, 2.1, 5.1 and 6.1) Develop and apply the Engineering New Zealand Washington Accord competencies (Capability 1.1, 2.1, 4.1, 4.2, 5.1, 6.1 and 7.1)","Assignments, systems project, team project",15,Yes,Yes,Yes
+ENGGEN,601,Case Studies in Engineering 1,,,,,15,,,
+ENGGEN,602,Case Studies in Engineering 2,,,,,15,,,
+ENGGEN,622,Advanced Topics in Engineering 1,,,,,15,,,
+ENGGEN,623,Advanced Topics in Engineering 2,,,,,15,,,
+ENGGEN,701,Professional Project,Bachelor of Engineering (Honours),Yes,"Analyse and evaluate the chosen engineering problem considering: engineering feasibility, financial constraints, rules compliance, social and ethical concerns, health and safety concerns, conflicting stakeholder requirements, and any other conflicting requirements. (Capability 1.1, 2.1 and 3.2)","Proposal, draft report",15,Yes,Yes,Yes
+ENGGEN,705,Engineering Product Development,Bachelor of Engineering (Honours),Yes,"Identify and explain an understanding of problems and issues regarding the need for innovative new product development. (Capability 1.1, 2.1, 4.2 and 6.1)
+Develop and analyse existing engineering designs using modelling methods to appreciate design issues and principles and prepare a technical report with integrated consideration of selected technical, commercial and human/societal issues. (Capability 1.1, 2.1, 3.1, 3.2, 4.2, 5.1, 6.1 and 7.1)
+Develop and demonstrate an understanding of the business plan report of a new product developed for a potential investor that integrates several disciplinary specialisations and requires independent research. (Capability 2.1, 3.2, 4.2, 5.1, 6.1, 7.1 and 8.1)
+Articulate and demonstrate the final product development project prototype and skills learned for the effective business development of an engineering product. (Capability 1.1, 2.1, 3.1, 4.1, 5.1, 6.1, 7.1, 8.1 and 8.2)","Idea pitch, Project technical report, final report, final oral presentation, design journal, reflection on learning",15,Yes,Yes,Yes
+ENGGEN,720,Special Topic,,,,,15,,,
+ENGGEN,721,Special Topic,,,,,15,,,
+ENGGEN,722,Special Study in Engineering Management 1,,,,,15,,,
+ENGGEN,723,Special Study in Engineering Management 2,,,,,15,,,
+ENGGEN,724,Special Study in Technology Management 1,,,,,15,,,
+ENGGEN,725,Special Study in Technology Management 2,,,,,15,,,
+ENGGEN,726,Climate Adaptation of Infrastructure,Master of Infrastructure Asset Management,No,,,15,Yes,Yes,Yes
+ENGGEN,730,Management Skills for Project Professionals,Master of Engineering Project Management,No,,,15,Yes,Yes,Yes
+ENGGEN,731,Agile and Lean Project Management,Master of Engineering Project Management,No,,,15,Yes,Yes,Yes
+ENGGEN,732,Systems Thinking and Project Business Case,Master of Engineering Project Management,Yes,"Identify, apply and evaluate the principles and techniques of Systems Thinking to generate value-adding solutions for a Project Business Case aligned with business strategic objectives. (Capability 2.1, 3.1, 4.1, 5.1 and 6.1)
+Identify and evaluate project costs and benefits; translate the benefits into measurable objectives; track their realisation; and conduct post-implementation reviews. (Capability 2.1, 3.1, 4.1, 5.1 and 6.1)
+Produce analytical models for the development of a compelling business case; using sensitivity analysis, tests of significance, systems dynamics, and risk analysis. (Capability 2.1, 3.1, 4.1, 5.1 and 6.1)
+Write and present an effective Project Business Case; prioritise and evaluate business cases; make effective decisions as an individual and as a group. (Capability 2.1, 3.1, 4.1, 5.1 and 6.1)
+Incorporate Māori values and thinking into Project Business Case and identify opportunities to link business cases to the modern Māori economy, such as quadruple bottom line and projects for long term sustainability. (Capability 2.1, 3.1, 4.1, 5.1 and 6.1)","Assignment, presentation, group project, tests, quizzes",15,Yes,Yes,Yes
+ENGGEN,733,Programme Strategy for Infrastructure Delivery,,,,,15,No,No,No
+ENGGEN,734,Engineering Contracts for Project Managers,Master of Engineering Project Management,No,,,15,Yes,Yes,Yes
+ENGGEN,735,Project Management Case Studies,Master of Engineering Project Management,Yes,"Develop advanced critical thinking skills and apply such skills to project case studies (Capability 2.1, 3.2, 4.1 and 4.2) Learn and apply critical intermediate milestones and reviews in a project lifecycle to confirm that the project has a high probability of achieving its agreed ultimate objectives (Capability 2.1, 3.2, 4.2, 5.1 and 6.1)","Individual assignments, group assignment",15,Yes,Yes,No
+ENGGEN,736,Research Implementation and Dissemination,Master of Engineering Project Management,Yes,"Demonstrate a strong understanding and self-assuredness in benefits realisation management. (Capability 1.1, 2.1, 4.1 and 5.1)
+Apply principles of benefits realization management to enhance the outcomes of both research projects and projects in diverse contexts. (Capability 1.1, 2.1, 4.1, 5.1 and 6.1)
+Cultivate a 'Benefits Management mindset,' enabling them to approach projects and change initiatives with fresh and insightful perspectives. (Capability 2.1, 4.1, 4.2 and 5.1)",Benefits management assessment,15,Yes,Yes,Yes
+ENGGEN,737,Engineering Risk Management,Master of Civil Engineering,Yes,"Investigate the critical elements of risk management within the engineering industry settings. (Capability 2.1, 3.1, 4.1 and 7.1)
+Identify and analyse risk management needs at the project and organisational levels. (Capability 2.1, 3.2, 4.2 and 5.1)
+Develop risk management strategies for complex, open-ended, real-world scenarios. (Capability 2.1, 3.1, 3.2, 4.2, 5.1 and 7.1)","Assignments, discussions",15,Yes,Yes,Yes
+ENGGEN,738,Work Based Learning,Master of Civil Engineering,No,,,15,Yes,Yes,Yes
+ENGGEN,739,Cost Engineering,Master of Civil Engineering,Yes,"Understand and apply cost engineering knowledge to project scenarios, developing realistic cost estimates for planned scopes of work. (Capability 2.1, 3.1, 4.2, 5.1 and 6.1) Apply engineering economic theories and NPV analysis to evaluate options and develop financial proposals for funding approvals of engineering projects at the different phases of the project lifecycle. (Capability 2.1, 3.1, 4.2, 5.1 and 6.1) Be able to manage and control a project’s profitability and cash flows during the project execution phase through techniques such as earned value, forecasting and change management. (Capability 2.1, 3.1, 4.2, 5.1 and 6.1)
+Work effectively in a team to implement strategies to achieve positive project financial outcomes. (Capability 2.1, 3.1, 4.2, 5.1 and 6.1)","Assignments, reports, quizzes",15,Yes,Yes,Yes
+ENGGEN,740,Project Management Bodies of Knowledge,Master of Engineering Project Management,No,,,30,Yes,Yes,Yes
+ENGGEN,741,"Project, Programme and Portfolio Management",Master of Engineering Project Management,No,,,30,Yes,Yes,Yes
+ENGGEN,742,Project Management,Master of Civil Engineering,No,,,15,Yes,Yes,Yes
+ENGGEN,743,Applied Creative Thinking,Master of Civil Engineering,No,,,15,Yes,Yes,Yes
+ENGGEN,769,Research Methods for Engineers,Master of Engineering Studies,Yes,Critique components and forms of research outputs (Capability 2.1),"Paper critiquing, written test",15,Yes,Yes,Yes
+ENGGEN,770,Medical Device and Technology Development,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+ENGGEN,771,Medical Device Industry Practice,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+ENGGEN,784,Capstone Project,Master of Engineering Project Management,No,,,30,Yes,Yes,No
+ENGGEN,785,Professional Capstone,Master of Professional Engineering,Yes,"Assess and integrate stakeholder requirements including Treaty of Waitangi and Resource Management Act requirements, and incorporating social, environmental, sustainability and ethical considerations. (Capability 1.1, 2.1, 6.1, 8.1 and 8.2)","Reports, presentations, etc",30,Yes,No,No
+ENGSCI,111,Mathematical Modelling 1,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENGSCI,205,Engineering Analytics and Machine Learning,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENGSCI,211,Mathematical Modelling 2,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENGSCI,221,Engineering Science Mechanics,,,,,15,,,
+ENGSCI,233,Computational Techniques and Computer Systems,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENGSCI,255,Modelling and Analytics in Operations Research,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENGSCI,263,Engineering Science Design I,Bachelor of Engineering (Honours),Yes,"Discuss the findings of a computer model in a wider context of stakeholder interests whose priorities may involve societal, financial, environmental, legal, ethical or cultural factors. (Capability 2.1, 4.1 and 4.2)","Final exam, projects, test",15,Yes,Yes,Yes
+ENGSCI,270,Special Topic,,,,,15,No,,
+ENGSCI,304,Engineering Machine Learning 2,,,,,15,,,
+ENGSCI,309,Image and Digital Signal Processing,,,,,15,,,
+ENGSCI,311,Mathematical Modelling 3,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENGSCI,313,Mathematical Modelling 3ECE,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENGSCI,314,Mathematical Modelling 3ES,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENGSCI,331,Computational Techniques 2,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENGSCI,343,Mathematical and Computational Modelling in Mechanics,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENGSCI,344,Computational Design for Physical Systems,Bachelor of Engineering (Honours),Yes,"Select appropriate solver types for numerical models, and the effects of this choice on the solution process and results. (Capability 1.1, 2.1, 3.1 and 3.2) Undertake verification and validation of numerical models, including verifying for correct implementation of the model (is it solving the model correctly), validating against external data (is it solving the correct model), and assessing how good is ‘good enough’? (Capability 2.1) Formulate and analyse a practical engineering problem; design solutions to the problem using the tools and techniques discussed in the course. (Capability 2.1, 3.1 and 3.2)","Quizzes, presentations, exam, project reports",15,Yes,Yes,Yes
+ENGSCI,355,Simulation Modelling for Process Design,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENGSCI,370,Special Topic,,,,,15,,,
+ENGSCI,391,Optimisation in Operations Research,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENGSCI,701,Studies in Engineering Science,,,,,15,,,
+ENGSCI,705,Special Topic,,,,,15,,,
+ENGSCI,706,Special Topic,,,,,15,,,
+ENGSCI,711,Advanced Mathematical Modelling,Master of Engineering Studies,Yes,"Understand the motivation for qualitative analysis of differential equations. (Capability 2.1, 3.1, 3.2, 4.1 and 4.2) ","Assignments, final exam, test",15,Yes,Yes,Yes
+ENGSCI,712,Computational Algorithms for Signal Processing,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+ENGSCI,713,Mathematical Modelling for Professional Engineers,,,,,15,,,
+ENGSCI,721,Data-centric Engineering for Physical Systems,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+ENGSCI,740,Computational Engineering for Physical Systems,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+ENGSCI,742,Studies in Continuum Mechanics,,,,,15,,,
+ENGSCI,746,Advanced Modelling and Simulation in Computational Mechanics,Master of Engineering Studies,Yes,"Create and import geometry for numerical models, including understanding the options and approaches for geometry creation and importation. (Capability 2.1, 3.1 and 3.2) Integrate sustainability and environmental considerations into computational engineering. This will develop skills in: analysing complexity and selecting an appropriate model representation of the physical problem; choosing the correct computational tool with which to solve the model; designing and executing appropriate numerical experiments using the chosen tool; validating, interpreting and communicating the simulation results. Enhance skills in sustainable decision-making and addressing environmental challenges. (Capability 2.1) ","Quizzes, presentations, exam, project reports",15,,,
+ENGSCI,755,Decision Making in Engineering,,,,,15,No,Yes,Yes
+ENGSCI,760,Algorithms for Optimisation,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+ENGSCI,761,Integer and Multi-objective Optimisation,Master of Engineering Studies,No,,,15,Yes,No,Yes
+ENGSCI,763,Advanced Simulation and Stochastic Optimisation,Master of Engineering Studies,No,,,15,Yes,No,No
+ENGSCI,765,Advanced Optimisation in Operations Research,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+ENGSCI,768,Advanced Operations Research and Analytics,Master of Engineering Studies,,,,15,No,Yes,Yes
+ENGSCI,773,Capstone Project,Bachelor of Engineering (Honours),Yes,"Develop an understanding of the design process for engineered products including the role of modelling and analysis, sources of information, material selection methods, approaches to prototyping and product validation, and societal, health and safety, legal and cultural implications for design. (Capability 1.1, 2.1, 3.1, 3.2, 4.1, 4.2, 5.1, 7.1, 8.1 and 8.2) Develop understanding of Blade Element Theory for aerodynamic design and use this to design a working wind turbine. (Capability 2.1, 3.1, 3.2, 4.1, 4.2, 5.1, 7.1, 8.1 and 8.2) Develop understanding of structural analysis methods for fluid loaded structures and apply this to the design of a wind turbine. (Capability 2.1, 3.1, 3.2, 4.1, 4.2, 5.1, 7.1, 8.1 and 8.2) Develop understanding of the capabilities and role of CAD and numerical analysis methods and software tools for engineering design. (Capability 2.1, 3.1, 3.2, 4.1, 4.2, 5.1, 7.1, 8.1 and 8.2) Develop expertise in applying relevant analysis and design methods to design case study of a sustainable low-cost wind-turbine product, including application skills in relation to computer aided analysis, synthesis skills in relation to engineering design, societal, health and safety, legal and cultural implications and evaluative skills for assessing prototype performance. (Capability 1.1, 2.1, 3.1, 3.2, 4.1, 4.2, 5.1, 6.1, 7.1, 8.1 and 8.2) Understand and critically evaluate how metaheuristics can be used to solve black-box optimisation problems, and how uncertainty can be modelled. Apply appropriate optimisation methods to design problems and analyse the results. Understand how uncertainty can be considered in optimisation problems. (Capability 2.1, 3.1, 3.2, 4.1, 4.2, 5.1, 6.1, 7.1, 8.1 and 8.2) Develop understanding of how to manage IP and risk and understand the importance of ethics, societal, health and safety, legal and cultural considerations and sustainability in relation to engineering design. ​(Capability 1.1, 2.1, 3.1, 3.2, 4.1, 4.2, 7.1, 8.1 and 8.2)","Test, assignments, group project",15,Yes,Yes,Yes
+ENVENG,200,Fundamentals of Environmental Engineering,Bachelor of Engineering (Honours),Yes,Demonstrate an understanding of the major principles of environmental impact assessment in New Zealand taking into account social and cultural considerations (Capability 1.1 and 2.1),"Quizzes, assignments, exam",15,Yes,Yes,Yes
+ENVENG,244,Environmental Engineering 1,,,,,15,,,
+ENVENG,300,Natural and Built Environment Processes,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENVENG,331,Three Waters: Quality and Treatment,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+ENVENG,333,Engineering Hydrology,,,,,10,No,No,No
+ENVENG,341,Environmental Engineering 2,,,,,15,No,No,No
+ENVENG,342,Environmental Engineering Design,,,,,15,No,No,Yes
+ENVENG,400,Special Topic,,,,,15,,,
+ENVENG,701,Urban Stormwater Management - Level 9,"Master of Engineering Studies, Bachelor of Engineering (Honours)",Yes,"Demonstrate an understanding of the effects of urban development on the hydrologic cycle (Capability 1.1 and 2.1)
+Demonstrate an understanding of urban stormwater contaminants and sources (Capability 2.1) ","Projects, presentations, assignments",15,Yes,Yes,Yes
+ENVENG,702,Engineering Decision Making in Aotearoa,Master of Engineering Studies,Yes,"Illustrate understanding and competency to employ the following decision-making frameworks: a) Te Tiriti o Waitangi and the Treaty of Waitangi b) Mauri Model Decision Making Framework c) Treasury's Living Standards Framework (Capability 2.1, 4.2, 5.1 and 8.1)","Quizzes, peer review, project",15,Yes,Yes,Yes
+ENVENG,705,Special Topic,Bachelor of Engineering (Honours),No,,,15,No,No,No
+ENVENG,706,Special Topic,,,,,15,,,
+ENVENG,707,Advanced Water Treatment and Reuse,,,,,15,No,No,No
+ENVENG,708,Environmental Engineering for Sustainable Futures,Master of Professional Engineering,Yes,"Describe and explain the fundamentals of suitability (Capability 1.1, 2.1, 4.1, 6.1, 8.1 and 8.2)
+Apply Sustainable design principles and frameworks (Capability 1.1, 2.1, 4.1, 4.2, 6.1, 8.1 and 8.2)
+Critically evaluate the sustainability of a proposed product, project or design (Capability 1.1, 2.1, 6.1, 8.1 and 8.2)",Assignments,15,Yes,Yes,No
+ENVENG,740,Water and Wastewater Engineering,Bachelor of Engineering (Honours),Yes,"Comprehend the major objectives of domestic wastewater treatment processes, and identify appropriate unit operations and processes necessary to meet secondary/tertiary wastewater treatment standards (Capability 2.1 and 5.1) ",Design reports,15,Yes,Yes,Yes
+ENVENG,744,Environmental Engineering Processes Laboratory,,,,,,,,
+ENVENG,746,Surface Water Quality Modelling - Level 9,Master of Engineering Studies,Yes,Analyse and evaluate the steady state and dynamic response of aquatic bodies to point and distributed loadings (Capability 2.1),"Quizzes, reports, test",15,Yes,Yes,Yes
+ENVENG,747,Environmental Fate of Chemicals and Mitigation,"Master of Engineering Studies, Bachelor of Engineering (Honours)",Yes,Apply how to construct adsorption isotherm using both different and extraction techniques (Capability 2.1 and 3.1) ,Assignments,15,No,Yes,Yes
+ENVENG,752,Sustainability and Life Cycle Assessment,Master of Engineering Studies,Yes,"Describe and explain the fundamentals of sustainability and LCA (Capability 2.1)
+Estimate the environmental impacts of a product or process (Capability 2.1, 4.1, 4.2, 6.1, 7.1 and 8.2)
+Develop an LCA model for a product or process using OpenLCA software (Capability 2.1, 4.1, 4.2, 6.1, 7.1 and 8.2)
+Critically analyse, write and present an LCA report of an engineered product or process (Capability 2.1, 4.1, 4.2, 6.1 and 8.2)","Quizzes, assignment, test, projects",15,Yes,Yes,Yes
+ENVENG,760,Water-Sensitive Cities,,,,,,,,
+HERICONS,700,Heritage Processes,,,,,,,,
+HERICONS,701,Heritage Assessment and Conservation Planning,,,,,,,,
+HERICONS,702,Conservation of Materials,,,,,,,,
+HERICONS,703,Diagnosis and Adaptation,,,,,,,,
+GEOTHERM,701,Geothermal Resources and their Use,,,,,,,,
+GEOTHERM,702,Geothermal Energy Technology,,,,,,,,
+GEOTHERM,703,Geothermal Exploration,,,,,,,,
+GEOTHERM,720,Geothermal Engineering,,,,,,,,
+GEOTHERM,785,Geothermal and Reservoir Engineering,,,,,15,No,Yes,Yes
+GEOTHERM,789,Geothermal Industry Project,,,,,15,No,,
+MECHENG,201,Introduction to Mechatronics,Bachelor of Engineering (Honours),No,,,15,No,No,No
+MECHENG,211,Thermofluids,Bachelor of Engineering (Honours),No,,,15,No,No,No
+MECHENG,222,Dynamics,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+MECHENG,235,Design and Manufacture 1,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+MECHENG,236,Design and Manufacture 2,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+MECHENG,242,Mechanics of Materials 1,Bachelor of Engineering (Honours),Yes,"Use the principles of materials selection when analysing structures and loads to make informed choices when deciding on materials used in the context of cost, performance and embedded energy. (Capability 2.1, 3.1 and 4.1)","Final exam, tests, quizzes",15,Yes,Yes,Yes
+MECHENG,270,Software Design,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+MECHENG,306,Design of Sensing and Actuating Systems,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+MECHENG,311,Thermal Engineering,Bachelor of Engineering (Honours),Yes,"Critically evaluate and reflect on energy studies: Ability to understand, assess and question events regularly reported in the news medium. (Capability 2.1)",Final exam,15,Yes,Yes,Yes
+MECHENG,313,Design of Real-Time Software,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+MECHENG,322,Control Systems,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+MECHENG,325,Dynamics of Fluids and Structures,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+MECHENG,334,Design and Manufacture 3,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+MECHENG,340,Mechanics of Materials 2,Bachelor of Engineering (Honours),Yes,"Understand and explain environmental conditions and manufacturing methods that contribute to early fatigue failure of ductile materials, or can be applied to extend fatigue life. (Capability 2.1 and 3.1) Understand and evaluate the influence of material selection and structural design safety factors on the safety and environmental impact of a product or structure. (Capability 1.1 and 2.1)",Exam,15,Yes,Yes,Yes
+MECHENG,352,Manufacturing Systems,Bachelor of Engineering (Honours),Yes,"Identify and analyse situations where good ergonomic principles may be applied to improve work environments. (Capability 1.1, 2.1, 3.1, 3.2, 4.1, 4.2, 5.1 and 6.1) Understand and apply manufacturing simulation technologies and queueing theory to a medium-sized manufacturing enterprise utilising Simio simulation software. (Capability 2.1, 3.1, 3.2, 4.1, 4.2, 5.1 and 6.1) ","Assignments, exam",15,Yes,Yes,Yes
+MECHENG,370,Electronics and Signal Processing,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+MECHENG,371,Digital Circuit Design,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+MECHENG,705,Mechatronics Systems,Bachelor of Engineering (Honours),Yes,"Understand and apply knowledge of thermal management, signal integrity and electromagnetic interference for the design of reliable mechatronics systems. (Capability 2.1, 3.1, 4.1 and 5.1)",Final exam,15,Yes,Yes,Yes
+MECHENG,706,Mechatronics Design Projects,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+MECHENG,707,Special Topic,,,,,,,,
+MECHENG,708,Special Topic,,,,,,,,
+MECHENG,709,Industrial Automation,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+MECHENG,710,Advanced Industrial Automation,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+MECHENG,711,Advanced Computational Fluid Dynamics.,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+MECHENG,712,Aerohydrodynamics,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+MECHENG,713,Energy Technology,Bachelor of Engineering (Honours),Yes,"Critically evaluate and reflect on Energy Studies: Ability to understand, assess and question events regularly reported in the news medium. (Capability 2.1, 6.1 and 8.2) ","Assignment, project, exam",15,No,Yes,Yes
+MECHENG,714,Wind Engineering,,,,,,No,No,No
+MECHENG,715,Building Services,Bachelor of Engineering (Honours),Yes,"Understand and evaluate human comfort and its effect on human health. (Capability 2.1, 3.1 and 4.1) Analyse and evaluate a vapour compression refrigeration / other HVACR system (Capability 1.1 and 2.1) Analyse and evaluate the energy usage and costs of building services components. (Capability 2.1, 3.1, 4.1 and 5.1)","Quizzes, project",15,Yes,No,Yes
+MECHENG,718,Computational Fluid Dynamics,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+MECHENG,719,Advanced Engineering Vibrations - Level 9,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+MECHENG,720,Advanced Multivariable Control Systems - Level 9,,,,,,No,No,No
+MECHENG,722,Engineering Vibrations,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+MECHENG,724,Multivariable Control Systems,Bachelor of Engineering (Honours),No,,,15,No,Yes,Yes
+MECHENG,726,Acoustics for Engineers,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+MECHENG,728,Advanced MEMS and Microsystems,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+MECHENG,730,Advanced Biomechatronic Systems - Level 9,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+MECHENG,731,Mechanical Design Projects,Bachelor of Engineering (Honours),Yes,"Identify and integrate appropriate values, which might include e.g. sustainability, cultural and ethical values, into a developed product design, for instance using the design for values method (Capability 1.1, 2.1 and 8.1)",Projects,15,Yes,Yes,Yes
+MECHENG,735,MEMS and Microsystems,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+MECHENG,736,Biomechatronic Systems,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+MECHENG,742,Advanced Materials Manufacturing,,,,,,No,No,No
+MECHENG,743,Composite Materials,Bachelor of Engineering (Honours),Yes,"Understand and specify appropriate composite material manufacturing processes for both long- and short-fibre composites, considering cost, performance and environmental impact. (Capability 2.1, 3.1 and 3.2) ","Tests, final exam",15,Yes,Yes,Yes
+MECHENG,747,Manufacturing and Industrial Processes,Bachelor of Engineering (Honours),Yes,"Understand the relationship between polymer structure and macroscopic behaviour, how the structure can degrade upon processing, and the implications this has for recyclability. (Capability 2.1, 3.1 and 4.1)","Exam, tests, lab assignment",15,Yes,Yes,Yes
+MECHENG,751,Advanced CAD/CAM/CNC,,,,,,No,No,No
+MECHENG,752,Technology Management,,,,,,No,No,Yes
+MECHENG,753,Advanced Industry 4.0 Smart Manufacturing,Master of Engineering Studies,Yes,"Demonstrate an understanding of of Industry 4.0 and its technology profile for smart manufacturing (Capability 1.1, 2.1, 3.1, 4.1 and 6.1)
+Be able to undertake Industry 4.0 readiness assessment tools (Capability 2.1, 3.1, 3.2, 5.1 and 8.2) Critically evaluate and synthesise , independently, recent development work in Industry 4.0 through literature studies. (Capability 1.1, 2.1, 3.1, 4.2, 6.1 and 8.2)","Assignments, exam",15,Yes,Yes,Yes
+MECHENG,754,Industry 4.0 Smart Manufacturing,Bachelor of Engineering (Honours),Yes,"Demonstrate an understanding of of Industry 4.0 and its technology profile for smart manufacturing (Capability 2.1, 3.1, 4.2, 8.1 and 8.2) Critically evaluate and synthesise , independently, recent development work in Industry 4.0 through literature studies. (Capability 1.1, 2.1, 3.1, 4.2, 6.1 and 8.2)","Assignments, exam",15,Yes,Yes,Yes
+MECHENG,755,Design for Additive Manufacturing,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,No
+POLYMER,700,Polymer Materials Engineering,,,,,,No,No,No
+POLYMER,704,Advanced Polymer Processing,,,,,,No,No,No
+POLYMER,705,Polymer Process and Product Design,,,,,,No,No,No
+POLYMER,706,Polymer Testing and Characterisation,,,,,,No,No,No
+SOFTENG,206,Software Engineering Design 1,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+SOFTENG,281,Object-Oriented Programming,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+SOFTENG,282,Software Engineering Theory,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+SOFTENG,283,Software Quality Assurance,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+SOFTENG,284,Data Structures and Algorithms,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+SOFTENG,306,Software Engineering Design 2,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+SOFTENG,310,Software Evolution and Maintenance,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+SOFTENG,325,Software Architecture,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+SOFTENG,350,Human Computer Interaction,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+SOFTENG,351,Fundamentals of Database Systems,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+SOFTENG,364,Networks and Security,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,No
+SOFTENG,370,Operating Systems,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+SOFTENG,701,Advanced Software Engineering Development Methods,Master of Engineering Studies,No,,,15,No,Yes,Yes
+SOFTENG,710,Studies in Software Engineering 1,,,,,,,,
+SOFTENG,711,Studies in Software Engineering 2,,,,,,,,
+SOFTENG,715,Special Topic,,,,,,,,
+SOFTENG,751,High Performance Computing,Master of Engineering Studies,No,,,15,Yes,Yes,Yes
+SOFTENG,752,Formal Specification and Design,Bachelor of Engineering (Honours),No,,,15,Yes,No,Yes
+SOFTENG,753,Machine Learning Techniques and Applications,,,,,,,,
+SOFTENG,754,Advanced Software Requirements Engineering - Level 9,Master of Engineering Studies,Yes,"Critically evaluate existing software products for insufficient requirements and capabilities (Capability 2.1, 4.2 and 7.1)
+Demonstrate an understanding of of user-centered requirements development, taking into account ethics and sustainability aspects. (Capability 2.1, 5.1, 7.1 and 8.1)","Assignments, quizzes",15,Yes,Yes,Yes
+SOFTENG,755,Special Topic,,,,,,,,
+SOFTENG,761,Advanced Agile and Lean Software Development,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+SOFTENG,762,Robotics Process Automation,Bachelor of Engineering (Honours),,,,15,No,No,Yes
+SOFTENG,770,Capstone Project,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+STRCTENG,200,Introductory Structural Mechanics,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+STRCTENG,201,Civil Engineering Materials and Design,Bachelor of Engineering (Honours),Yes,"Understand the benefits and limitations of each material, including structural properties, carbon intensity, and life-cycle consideration (Capability 2.1, 3.1, 3.2 and 4.1) Understand the manufacturing methods of each material, its impact on emission and its influence on the material properties (Capability 2.1, 3.1, 3.2 and 4.1) Understand the design and construction concepts for each material (Capability 2.1, 3.1, 3.2 and 4.1) Apply analytical techniques such as slope deflection, fixed end moment methods, unit-load method, virtual work and associated theorems (Capability 2.1, 3.1, 3.2 and 4.1) Calculate shear stresses produced by shear forces and/or torsional moments in beams and elastic deflections of simple structures (Capability 2.1, 3.1, 3.2 and 4.1) Analyse simple indeterminate structures, including beams, frames, trusses and mixed systems. Use and apply all of the above to practical engineering problems. (Capability 2.1, 3.1, 3.2 and 4.1)","Quizzes, concrete lab report, transport lab report, test, final exam, assignments",15,Yes,Yes,Yes
+STRCTENG,300,Design Loads and Dynamic Response of Structures,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+STRCTENG,301,Timber Structures Design,Bachelor of Engineering (Honours),Yes,"Understand the construction concepts relating to timber structures (Capability 2.1, 3.1, 3.2, 8.1 and 8.2)","Assignments, exam",15,Yes,Yes,Yes
+STRCTENG,302,Steel Structures Design,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+STRCTENG,303,Concrete Structures Design,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+STRCTENG,304,Structural Design for Civil Engineers,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+STRCTENG,710,Low Rise Structures Design,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+STRCTENG,711,Multistorey Structures Design,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+STRCTENG,760,Forensic Structural Engineering,Bachelor of Engineering (Honours),No,,,15,Yes,Yes,Yes
+TDAIS,100,Artificial Intelligence and Society,Bachelor of Engineering (Honours),No,,,15,Yes,No,No
+URBDES,702,Urban Design Theory and Practice,Master of Urban Design,Yes,"Apply a critical understanding of urban design theories and principles to analysis and design of the built environment (Capability 1.1, 2.1, 3.1, 3.2, 3.3, 4.1, 4.2, 5.1, 6.1 and 8.1)
+Understand and describe theories that inform urban place and space design (Capability 1.1, 2.1, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 6.3, 7, 8.1, 8.2 and 8.3)
+Be able to select appropriate tools for the analysis of the built environment (Capability 1.1, 2.1, 3.1, 3.3, 4.2, 4.3, 5.1, 6.2, 6.3, 8.1, 8.2 and 8.3)
+Articulate and communicate complex urban design issues and proposals in oral, drawn and written forms in a professional context (Capability 1.1, 2.1, 3.1, 3.3, 4.2, 4.3, 5.1, 6.1, 6.2, 7, 8.1, 8.2 and 8.3)","Assignments, seminar presentation, essay",15,Yes,Yes,Yes
+URBDES,705,Emerging Paradigms,Master of Urban Design,Yes,Recognise relevant theories in urban morphology concepts and how they inform urban design including both natural and artificial form (Capability 1.1 and 2.1),"Site analysis exercise, interim report, final report, reading reflection, discussions",15,Yes,Yes,Yes
+URBDES,710,Urban Design Studio 1,Master of Urban Design,Yes,"Demonstrate an appropriate and strategic response to a complex urban problem and issues drawing on a range of current urban design theories, principles, policies, precedents and relevant issues (Capability 2.1, 3.1, 3.2, 3.3, 5.1, 5.2 and 8.2)
+Critically analyse and understand the attributes of complex urban environments and changes over time (Capability 1.1, 2.1, 4.1, 4.2, 4.3, 5.1 and 5.2)","Site analysis, design projects, discussions",30,Yes,Yes,Yes
+URBDES,720,Urban Design Studio 2,Master of Urban Design,Yes,"Demonstrate an appropriate and strategic response to a complex urban problem and issues drawing on a range of current urban design theories, principles, policies, precedents and relevant issues (Capability 1.1, 2.1, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 6.2, 6.3, 7, 8.1, 8.2 and 8.3)
+Critically analyse and understand the attributes of complex urban environments and changes over time (Capability 1.1, 2.1, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 6.2, 6.3, 7, 8.1, 8.2 and 8.3)
+Develop urban design concepts and proposal underpinned by an understanding of urban theories, principles, policies and precedents at the larger urban scale (Capability 1.1, 2.1, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 6.3, 7, 8.1 and 8.3)
+Communicate the concepts and proposals to a range of stakeholders in graphic, oral and written forms (Capability 1.1, 2.1, 3.1, 3.3, 4.1, 4.2, 5.1, 5.2, 6.1, 6.3, 7, 8.1, 8.2 and 8.3)
+Have and develop knowledge of of the regulatory, social, economic and cultural context in which urban design projects are implemented (Capability 1.1, 2.1, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 6.2, 6.3, 7, 8.1, 8.2 and 8.3)","Framework plan, draft masterplan, final presentation",30,Yes,Yes,Yes
+URBPLAN,101,Introduction to Urban Planning,Bachelor of Urban Planning (Honours),Yes,"Demonstrate an understanding of the role and practice of urban planning (Capability 1.1, 2.1 and 3.1)
+Develop and demonstrate an awareness of how and why urban planning evolved as a discipline and profession internationally and within the Aotearoa-New Zealand context (Capability 1.2, 2.2, 2.3 and 3.1)","Assignments, exam",15,Yes,Yes,Yes
+URBPLAN,122,"Introduction to Society, Civics and Governance Issues for Urban Planning",Bachelor of Urban Planning (Honours),Yes,"Understand and explain of social diversity and the social issues affecting individuals, families, and communities in urban areas; (Capability 1.1 and 2.1) An ability to formulate policies; plans and urban design responses for an inclusive, safer, more sustainable urban area (Capability 2.3 and 3.3)","Assignment, quizzes, final exam",15,No,Yes,Yes
+URBPLAN,123,Urban Planning Economics,Bachelor of Urban Planning (Honours),Yes,"Develop the ability of the deployment of the principles and theories of economics in planning discipline; (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 4.2, 4.3, 5.1, 5.2, 5.3, 6.1, 6.2, 6.3, 7.1, 7.2, 7.3, 8.1, 8.2 and 8.3)
+Demonstrate an understanding of different systems of economy e.g. the market economy and their impacts and implications for urban planning and design; (Capability 1.1, 1.2, 1.3, 2.3, 3.2, 4.2, 5.2, 7.2 and 8.2)
+Demonstrate an understanding of the need and the ability to critically challenge the existing planning system under the current situation of the economy and generate alternatives through exploring multiple sources and different viewpoints of economics; (Capability 1.2, 2.1, 2.2, 2.3, 4.2, 5.1, 5.2, 6.1, 6.3 and 8.1)
+Develop practical alternatives to the current failures of the market and/or planning and provide arguments and interpretations in order to improve the well-being and quality of life in cities; (Capability 2.1, 3.1, 3.2, 3.3, 4.3, 5.3, 6.2, 7.1, 7.2 and 8.2)
+Analyse the planning responses to the markets crisis (including government policy shocks). (Capability 1.1, 2.2, 3.1, 4.2, 5.1, 5.2, 6.2, 7.1, 7.3 and 8.3)
+Apply a variety of skills including writing, speaking, reasoning presentation and collaboration and adequate ability through both individual and group course works; (Capability 1.1, 2.1, 2.3, 3.2, 4.1, 4.2, 6.1, 6.2, 7.1, 7.3, 8.1 and 8.2)
+Demonstrate adequate skills in communicating urban planning ideas through writing and presentation design for various audiences e.g. peers, planners and the instructors. (Capability 1.1, 1.3, 2.1, 2.2, 3.1, 3.2, 4.1, 4.2, 5.1, 5.2, 6.1, 6.2, 7.1 and 8.1)
+Evaluate how markets work and how they fail and how these market operations might influence a person's decisions to buy and a planner’s decision to work; (Capability 1.2, 2.2, 3.1, 3.2, 4.1, 4.3, 5.3, 6.3, 7.2, 7.3, 8.2 and 8.3)
+Demonstrate an understanding of the causes of unemployment, inflation and economic downturn and their impacts on different communities including low income groups and less developed areas of a city. (Capability 1.1, 1.2, 2.1, 2.2, 3.1, 3.2, 4.1, 4.2, 5.1, 5.2, 6.1, 6.2, 7.1, 7.2 and 8.3)
+Identify solutions to show how urban economics applied in planning may help to improve well-being and respond to the future needs of cities. (Capability 1.1, 1.2, 2.2, 2.3, 3.2, 3.3, 4.1, 5.1, 6.1, 6.2 and 8.3)","Essay, presentation, final exam",15,No,Yes,Yes
+URBPLAN,124,"Ecosystem, Sustainability and Environment",Bachelor of Urban Planning (Honours),Yes,"Recognise, analyse and evaluate the interrelationship between built and natural environments. (Capability 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2 and 3.3)
+Demonstrate an understanding of ecological issues, including climate change, biodiversity loss, and natural hazard risks, and assess their implications for urban development and sustainable planning practices. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 8.1, 8.2 and 8.3)
+Identify and apply interdisciplinary approaches and knowledge of ecosystem processes to urban planning practice (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 5.1, 5.2, 5.3, 7.1, 7.2 and 7.3)
+Incorporate Māori perspectives and values in shaping urban planning and environmental sustainability practices. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 5.1, 5.2, 5.3, 7.1, 7.2, 7.3, 8.1, 8.2 and 8.3)
+Demonstrate ability to engage in reflective and critical thinking, considering diverse ecological and social perspectives in urban planning to advocate for equity, resilience, and long-term sustainability. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 4.1, 4.2, 4.3, 6.1, 6.2, 6.3, 7.1, 7.2, 7.3, 8.1, 8.2 and 8.3)","Essay, case-study based report, tutorial discussions, final exam",15,Yes,Yes,Yes
+URBPLAN,125,Urban Planning Studio 1,Bachelor of Urban Planning (Honours),Yes,"Learn the analytical tools and techniques necessary to carry out site analysis (Capability 2.1, 2.2, 2.3, 3.1, 3.2 and 3.3)","Assignment, presentation",30,Yes,Yes,Yes
+URBPLAN,126,Urban Planning Studio 2,,,,,30,No,No,Yes
+URBPLAN,201,Urban Policy Analysis,,,,,,No,No,No
+URBPLAN,202,Urban Planning Implementation and Law,,,,,,No,No,No
+URBPLAN,203,Urban Infrastructure,,,,,,No,No,No
+URBPLAN,204,Urban Planning Social Theory and Practice,,,,,,No,No,No
+URBPLAN,205,Urban Infrastructure and Transportation Planning,,,,,,No,No,No
+URBPLAN,210,Urban Planning Studio Three,,,,,,No,No,No
+URBPLAN,211,Urban Planning Studio Four,,,,,,No,No,No
+URBPLAN,221,"People, Housing and Communities",Bachelor of Urban Planning (Honours),Yes,"Demonstrate an understanding of social diversity and the social issues affecting individuals, families and communities in urban areas (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 6.2, 7.1, 7.2, 8.1, 8.2 and 8.3)
+Demonstrate an understanding of social equity and social justice and their relevance for urban planning (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.1, 5.2, 5.3, 6.1, 6.2, 6.3, 7.1, 7.2, 8.1, 8.2 and 8.3)
+Demonstrate an understanding of and an ability to critically assess relevant current urban planning, urban design responses to social issues (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.1, 5.2, 5.3, 6.1, 6.2, 6.3, 7.1, 7.2, 7.3, 8.1, 8.2 and 8.3)
+An ability to formulate policies, plans and urban design responses for an inclusive, safer, more sustainable urban area (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.1, 5.2, 5.3, 6.1, 6.2, 6.3, 7.1, 7.2, 7.3, 8.1, 8.2 and 8.3)
+Demonstrate an understanding of cultural competency and community participation methods and the ability to apply the concepts with a diversity of communities (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.1, 5.2, 5.3, 6.1, 6.2, 6.3, 7.1, 7.2, 7.3, 8.1, 8.2 and 8.3)","Class tasks, quizzes, report, presentation, project proposal, report",15,Yes,,
+URBPLAN,222,Urban Economics,Bachelor of Urban Planning (Honours),Yes,"Demonstrate a critical understanding of the different approaches of urban economics and urban land economics to suggest future-oriented solutions to the economic crises and downturn. (Capability 2.1, 2.2 and 2.3) Demonstrate adequate skills in communicating urban planning ideas through writing and presentation design for various audiences e.g. peers, planners and critics as well as the instructors (Capability 1.2, 1.3, 2.2, 2.3, 4.1, 4.2 and 4.3) Analyse solutions to show how urban economics applied in planning may help to deal with the crises, improve well-being and respond to the future needs of cities. (Capability 2.2, 2.3, 3.1, 3.2, 3.3, 6.2, 6.3, 7.1, 7.2, 7.3, 8.1, 8.2 and 8.3)","Portfolio, presentation, reports",15,Yes,Yes,Yes
+URBPLAN,223,Planning Law and Applications,Bachelor of Urban Planning (Honours),Yes,"Understand and critically evaluate key aspects of the Resource Management Act and other planning legislation, as time allows. (Capability 1.1 and 2.2) Demonstrate an understanding of of legal reforms and statutory instruments applicable to urban planningin the Auckland region. (Capability 1.3, 2.3 and 3.3)","Assignments, exam",15,Yes,Yes,Yes
+URBPLAN,225,Urban Planning Studio 2,Bachelor of Urban Planning (Honours),No,,,,Yes,Yes,Yes
+URBPLAN,226,Urban Planning Studio 3,Bachelor of Urban Planning (Honours),Yes,"Demonstrate an understanding of the complexities of environmental threats and their impact on planning and decision-making, particularly in relation to sustainable and equitable community outcomes. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3 and 8.2) Develop the ability to navigate complex environmental challenges confidently, acknowledging and addressing their intricacies rather than oversimplifying them. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.3, 6.1, 6.2, 6.3, 8.2 and 8.3) Apply evidence-based skills to analyse and document strategies for ethically and effectively addressing environmental challenges, supporting informed decision-making and planning solutions. (Capability 2.1, 2.3, 3.1, 3.3, 4.1, 4.3, 5.1, 5.2, 5.3, 7.1, 7.2, 7.3, 8.1, 8.2 and 8.3) Demonstrate critical thinking, creativity, and collaboration by working with peers to visualise and communicate solutions to environmental threats in a way that is clear, innovative, and effective. (Capability 1.1, 1.2, 2.2, 3.1, 3.2, 4.1, 4.2, 4.3, 5.1, 6.2, 6.3, 8.2 and 8.3) Evaluate planning instruments and policies related to environmental threats, assessing their outcomes and effectiveness in achieving climate resilience, sustainability, and equitable urban development. (Capability 1.2, 1.3, 2.1, 2.2, 3.1, 3.3, 5.1, 5.2, 5.3, 7.1, 8.1, 8.2 and 8.3)","Environmental threat analysis, planning and design response, reflective journal",30,Yes,,
+URBPLAN,301,Urban Economic Development,,,,,,No,No,No
+URBPLAN,302,Heritage/Cultural Issues for Urban Planning,,,,,,No,No,No
+URBPLAN,303,Ecology and Resilience,,,,,,No,No,No
+URBPLAN,304,Urban Land Use Economics,,,,,,No,No,No
+URBPLAN,305,Māori Urban Planning Issues,,,,,,No,No,No
+URBPLAN,306,Global Contexts and Contemporary Urban Planning Issues,,,,,,No,No,No
+URBPLAN,307,"Negotiation, Mediation and Project Management",,,,,,,,
+URBPLAN,310,Urban Planning Studio Five,,,,,,No,No,No
+URBPLAN,311,Urban Planning Studio Six,,,,,,No,,
+URBPLAN,321,"Urban Policy Analysis, Development and Research Skills",Bachelor of Urban Planning (Honours),Yes,"Develop an understanding of the necessity of plans and policies to address contemporary urban problems (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 6.2, 7.1, 7.2, 8.1 and 8.2)
+Generate an in-depth understanding of different spatial level policies including national, regional, urban, and neighbourhood policies and plans, and their crucial interconnections to address the contemporary urban issues. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.1, 5.2, 5.3, 6.1, 6.2, 6.3, 7.1, 7.2, 7.3, 8.1, 8.2 and 8.3)
+Familiarise learners with evidence-based planning and policy-making, including quantitative and qualitative research methods, and a practical understanding of the appropriate use of data and evidence. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.1, 5.2, 5.3, 6.1, 6.2, 6.3, 7.1, 7.2, 8.1, 8.2 and 8.3)
+Introduce learners with evaluation tools as well as critical skills to investigate plans and policies. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.1, 5.2, 5.3, 6.1, 6.2, 7.1, 7.2, 8.1, 8.2 and 8.3)","Class tasks, quizzes, policy brief, report, presentation, research proposal",15,Yes,,
+URBPLAN,322,Urban Infrastructure,Bachelor of Urban Planning (Honours),Yes,"Develop an understanding of the issues, complexities and costs of providing and managing urban infrastructure (Capability 2.1) Appreciate the need for the integration of urban infrastructures with urban land use (Capability 2.2)",Assignments,15,Yes,,
+URBPLAN,323,Māori Planning,Bachelor of Urban Planning (Honours),Yes,"Develop and demonstrate an understanding of indigenous Māori values and perspectives and the challenges that Māori experience when engaging in planning processes. 1. Have an understanding of indigenous Māori values and perspectives and the challenges that Māori experience when engaging in planning processes. (Capability 1.1, 1.3 and 2.2)
+Demonstrate an understanding of Te Tiriti o Waitangi and the Treaty of Waitangi discourse in relation to planning legislation and practice. (Capability 2.1, 3.2 and 4.1) Critically examine local and central government planning in relation to Māori resource interests, rights, values and political positions. (Capability 1.3, 2.2 and 3.3)","Assignments, presentation, reports",15,Yes,,
+URBPLAN,325,Urban Planning Studio 4,Bachelor of Urban Planning (Honours),Yes,"Understand the relationships between built form (private, communal, and public) and the space around it to improve the urban fabric (Capability 1.2 and 2.2)","Assignments, tutorials, class tasks",30,No,,
+URBPLAN,326,Urban Planning Studio 5,Bachelor of Urban Planning (Honours),Yes,Demonstrate a greater awareness of the principles and methods of urban landscape management and urban design (Capability 2.1 and 2.3),"Research report, urban design proposal",30,No,,
+URBPLAN,701,Urban Planning Contexts,Master of Urban Planning (Professional),Yes,"Demonstrate an understanding of the evolving functions and structures of cities, the dynamic and interactive forces that shape them, and the significance of history and sustainability in their future development, in the New Zealand and global contexts (Capability 1.1, 2.1, 3.1, 4.1 and 7.1)  Demonstrate an appreciation of the impact of ideas, policy frameworks and plans on human settlement and lifestyles with critical reflection (Capability 1.2, 2.2, 3.2 and 4.1)","Essay, final exam",15,Yes,,
+URBPLAN,702,Urban Planning Law,Master of Urban Planning (Professional),Yes,"Understand and critically evaluate key theories, concepts and principles upon which the Resource Management Act (RMA) is based. (Capability 1.2, 1.3, 2.1, 2.3, 4.1 and 6.2)
+Develop and demonstrate an understanding of new directions in policy and legal development for urban planning. (Capability 1.3, 2.3, 3.3 and 4.3) Demonstrate a critical analysis of aspects of climate change mitigation and adaptation in urban contexts. (Capability 1.2, 1.3, 2.3 and 6.3)
+Develop and demonstrate a basic competence in accessing and utilising legal resources including legislation and case law. (Capability 1.3, 2.3, 3.3 and 4.3)
+Demonstrate a critical and informed understanding of aspects of local government law and governance, with an emphasis on the Local Government Act 2001 and potential local government reform. (Capability 1.2, 2.3, 3.2 and 4.3)","Assignments, exam",15,No,,
+URBPLAN,706,Māori Planning Issues,Master of Urban Planning (Professional),Yes,"Develop a critical understanding of traditional and contemporary Māori society and an ability to critically analyse urban planning documents with regard to Māori values, rights, and interests. (Capability 1.1, 2.2 and 4.1) Demonstrate an ability to think innovatively about urban planning solutions to Māori urban issues based on Aotearoa New Zealand’s dual planning traditions. (Capability 1.2, 2.2 and 3.3)","Peer review, presentation, report",15,Yes,,
+URBPLAN,707,Urban Economic Development,Master of Urban Planning (Professional),Yes,"Develop the ability of the deployment of the principles and theories of economics in urban planning and design disciplines; (Capability 1.1, 1.2, 1.3, 2.1, 2.2 and 2.3)
+Demonstrate a deep understanding of the technical relationships between economics and planning policies and projects; (Capability 2.3, 3.1, 3.2, 3.3, 4.1, 4.2 and 4.3) Develop an understanding of Cost-Benefit Analysis (CBA) theories and ability to apply them, and basic project feasibility analysis and market failures that are the rationale of the discipline of urban planning; (Capability 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2 and 4.3)","Portfolio, presentation, project, report",15,Yes,,
+URBPLAN,709,Housing and Community Development,Master of Urban Planning (Professional),No,,,15,Yes,,
+URBPLAN,711,Urban Planning Theory,Master of Urban Planning (Professional),Yes,"Enhance Enhance critical reflective skills and abilities (Capability 1.1, 1.2, 2.1, 2.3, 3.1, 3.2, 4.1, 4.2, 4.3, 5.1, 5.2, 5.3, 6.1, 6.3, 7.2, 7.3, 8.2 and 8.3)
+Enhance Enhance academic vocabulary and the ability to critically read academic literature (Capability 1.1, 1.2, 2.1, 2.2, 3.3, 4.2, 4.3, 5.1, 5.2, 6.2, 6.3, 7.1, 7.3, 8.2 and 8.3)
+Further develop an understanding of contemporary planning theory and ethical practice (Capability 1.1, 1.3, 2.1, 3.2, 4.2, 5.2, 6.1, 7.2, 8.1, 8.2 and 8.3)","Class tasks, Quizzes, Planning Theory in Action, Planning debate",15,Yes,,
+URBPLAN,712,Sustainable Urbanism,Master of Urban Planning (Professional),Yes,"Demonstrate critical understanding of current built environment, people activities and transportation outcomes on the quality of life of individuals and communities, (Capability 1.1, 2.1, 3.1, 4.1, 4.2, 5.1, 5.2, 5.3 and 6.1)
+Analyse specific risks and opportunities to urban areas (and their populations) of climate change (mitigation and / or adaptation) and develop realistic responses to critical issue (Capability 1.1, 1.2, 2.1, 3.1, 4.1, 4.2, 5.1, 5.2, 5.3, 6.1 and 8.1)",Assignment,15,Yes,,
+URBPLAN,713,Shelter,Master of Urban Planning (Professional),Yes,"Demonstrate understanding of (1) the need to analyse social, economic, environmental, and cultural impacts of public policy in an integrative and holistic manner (2) the impacts of housing markets, housing market processes and government policy on the housing opportunities of a range of household types and (3) the spatial implications of the interactions between housing market processes, public policies and urban planning. (Capability 1.1, 1.2, 1.3, 2.1, 3.1, 4.1 and 8.1)",Assignment,15,Yes,,
+URBPLAN,714,Urban Planning Methods and Plan Making Studio,Master of Urban Planning (Professional),Yes,"Demonstrate a critical understanding of issue development, including the ability to identify the relevant planning issues in complex situations as well as methods required to resolve these issues. This includes considering options, costs and benefits, values, and judicial responsibilities. (Capability 1.1, 1.2, 2.1, 2.2, 2.3, 3.2, 3.3, 4.1, 4.2, 5.2, 5.3, 6.1, 6.2, 7.2, 8.1, 8.2 and 8.3)
+Apply Apply cognitive learning skills to problem solving relevant to planning policy (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.2, 3.3, 4.1, 4.2, 4.3, 5.1, 5.3, 6.2, 7.2, 8.1, 8.2 and 8.3)
+Demonstrate Demonstrate the critical and practical skills required to evaluate and produce sound, evidence-based Urban Planning documents. This includes drafting objectives, policies, urban planning methods and evaluation techniques, all of which will produce clear and workable urban planning documents that are able to deliver the stated urban planning outcomes in practice (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.1, 5.2, 5.3, 6.2, 7.1, 7.2, 8.1, 8.2 and 8.3)",Assignment,15,Yes,,
+URBPLAN,716,Contemporary Wicked Problem Studio,Master of Urban Planning (Professional),Yes,"Develop and demonstrate a good understanding of the characteristics and complexities of wicked problems, and recognise how these challenges impact planning and decision-making processes. (Capability 1.1, 1.2, 1.3, 2.1, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.2, 5.3, 6.1, 6.2, 6.3, 7.1, 7.2, 7.3, 8.1 and 8.2) Research, analyse and communicate the multifaceted impacts of climate change on urban environments, focusing on New Zealand's unique challenges and opportunities. (Capability 1.2, 1.3, 2.2, 2.3, 3.1, 3.2, 3.3, 4.2, 4.3, 5.2, 5.3, 6.2, 7.1, 7.2, 7.3, 8.1, 8.2 and 8.3) Formulate and articulate innovative, sustainable urban planning strategies that enhance environmental resilience and address climate-related challenges. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.2, 5.1, 5.2, 5.3, 6.1, 6.2, 7.1, 7.2, 7.3, 8.1, 8.2 and 8.3) Display / continue to build on evidence-based research skills and analytical methods to explore contemporary wicked problems, document findings, and engage in meaningful and ethically responsible decision-making to design effective solutions. (Capability 1.1, 1.2, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 5.1, 5.3, 6.1, 6.2, 6.3, 7.1, 7.2, 7.3, 8.1, 8.2 and 8.3) Critically evaluate and synthesise how wicked problems influence planning and shape policy outcomes related to climate change, adaptation, sustainability and resilient urban planning practices. (Capability 1.1, 1.3, 2.2, 3.1, 3.2, 4.1, 4.2, 4.3, 5.1, 6.1, 6.2, 6.3, 7.1, 7.2, 7.3, 8.1, 8.2 and 8.3) Demonstrate an understanding of ethical considerations in climate adaptation planning, particularly within socially and environmentally sensitive situations. (Capability 1.2, 1.3, 2.1, 2.2, 3.1, 3.3, 4.1, 4.2, 5.1, 5.2, 5.3, 6.1, 6.2, 6.3, 7.1, 7.2, 7.3, 8.1, 8.2 and 8.3) Effectively communicate complex ideas and values effectively, using evidence in both written and verbal formats to engage with peers, professionals and other stakeholders. (Capability 1.1, 1.2, 1.3, 2.1, 2.3, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.1, 5.2, 5.3, 6.1, 6.2, 6.3, 7.2, 8.1, 8.2 and 8.3)","Studio project, reflection",30,Yes,,
+URBPLAN,717,Community Design Studio,Master of Urban Planning (Professional),Yes,"Have analysed and developed comprehensive solutions for resilient, energy-efficient, and socially equitable urban environments for urban planning (Capability 2.1, 2.2 and 2.3)",Report,30,Yes,,
+URBPLAN,718,Sustainable Urbanism Studio,,,,,,No,,
+URBPLAN,721,Project Management for Urban Planning,,,,,,No,,
+URBPLAN,722,Heritage/Cultural Issues,,,,,,No,,
+URBPLAN,733,Sustainable Urban Design Studio,,,,,,No,,
+URBPLAN,734,Smart City Planning - Level 9,Master of Urban Planning (Professional),Yes,"Develop To develop an understanding of the meaning of the “Revolution 4.0” and how this industrial revolution is significantly transforming our cities (Capability 1.1, 1.2, 2.1, 2.2, 3.2, 3.3, 4.2, 5.3, 6.2, 6.3, 7.3 and 8.2)
+Familiarise To familiarise students with the pervasive term of “Smart City” and its various implications on urban planning and design in the global and local contexts (Capability 1.2, 2.2, 3.1, 4.1, 4.2, 5.3, 6.1, 6.3, 7.1, 7.3 and 8.2)
+Provide To provide an understanding of “E-governance” and “Citizen-sensing” and their impacts on urban planning and design (Capability 1.1, 1.2, 2.2, 2.3, 3.2, 3.3, 4.2, 4.3, 5.1, 5.2, 6.1, 6.2, 7.1, 7.2 and 8.2)
+Provide To provide a good understanding of “Autonomous Shared Mobility” and its different models as well as their impacts on urban planning and design (Capability 1.2, 2.2, 3.1, 3.2, 4.2, 4.3, 5.2, 5.3, 6.2, 6.3, 7.1, 7.2 and 8.1)
+Familiarise To familiarise the students with “Society of Control”, “Governmentality”, “Smartmentality” and the ethics of Big Data (Capability 1.1, 1.2, 1.3, 2.2, 2.3, 3.2, 4.1, 5.1, 5.2, 6.1, 6.2, 6.3, 7.2, 7.3, 8.1, 8.2 and 8.3)
+learn about the legislations and Acts to protect privacy of the residents in New Zealand and the global context. (Capability 1.1, 1.2, 1.3, 2.2, 2.3, 3.1, 3.2, 4.1, 4.2, 4.3, 5.2, 5.3, 6.2, 6.3, 7.2, 7.3, 8.1 and 8.2)","Presentation, Proposal, Poster, Report, Class task",15,Yes,,
+URBPLAN,735,"Resource Consents and Implementation, Evaluation",Master of Urban Planning (Professional),Yes,"Apply urban planning law, infrastructure, environmental effects assessments, and design skills to complete the RMA planning application process. (Capability 1.1, 1.2, 2.2, 2.3, 3.3, 4.2, 5.2, 6.2, 6.3, 7.2, 8.1, 8.2 and 8.3)
+Understand and apply knowledge of the linkage between urban planning policy and its implementation. (Capability 1.1, 1.2, 1.3, 2.1, 2.2, 3.3, 4.1, 4.2, 4.3, 5.2, 5.3, 6.2, 6.3, 7.2, 7.3, 8.1, 8.2 and 8.3)","Report, Scoping assessment",,,,
+WTRENG,100,Waipapa Taumata Rau: Engineering and Design for the Built Environment in Aotearoa New Zealand,Bachelor of Engineering (Honours),Yes,"Demonstrate how place, and an understanding of Te Tiriti o Waitangi, are significant to your field of study. (Capability 1.1, 2.1, 5.1, 7.1 and 8.1) Critically and constructively engage with knowledge systems, practices and positionality . (Capability 1.1, 2.1, 3.1, 3.2, 4.2 and 5.1)","Project, Reflection, Assignments",,,,

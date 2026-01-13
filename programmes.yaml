@@ -1,0 +1,826 @@
+# Programme–course mappings
+# Source: Faculty of Engineering Course Viewer 2025
+# Last updated: 13-01-2026
+# courses are categorised as follows:
+# “required” (core course, mandatory)
+# “option” (core course, selected from 2-4 specified courses)
+# “restricted” (elective, chosen from wide-ranging but finite specified list)
+# “free” (elective, chosen from large, unspecified pool or from any course at the university)
+# two-semester courses, research projects, and theses are not included
+
+programmes:
+  BAS:
+    courses:
+  BDes:
+    courses:
+  BE(Hons):
+    specialisations:
+      Biomedical Engineering:
+        courses:
+          ENGGEN121:
+            type: required
+          ENGSCI111:
+            type: required
+          WTRENG100:
+            type: required
+          CHEMMAT121:
+            type: required
+          ELECTENG101:
+            type: required
+          ENGGEN115:
+            type: required
+          ENGGEN131:
+            type: required
+          BIOMENG221:
+            type: required
+          ENGSCI211:
+            type: required
+          ENGSCI233:
+            type: required
+          BIOMENG241:
+            type: required
+          BIOMENG261:
+            type: required
+          ENGGEN204:
+            type: required
+          BIOMENG321:
+            type: required
+          BIOMENG341:
+            type: required
+          ENGGEN303:
+            type: required
+          ENGSCI314:
+            type: required
+          ENGSCI331:
+            type: required
+          ENGSCI355:
+            type: restricted
+          ENGSCI391:
+            type: restricted
+          MECHENG313:
+            type: restricted
+          COMPSYS303:
+            type: restricted
+          ENGSCI344:
+            type: restricted
+          MECHENG352:
+            type: restricted
+          MECHENG371:
+            type: restricted
+          BIOMENG791:
+            type: required
+          ENGGEN403:
+            type: required
+          CHEMMAT723:
+            type: restricted
+          CHEMMAT753:
+            type: restricted
+          ELECTENG722:
+            type: restricted
+          ELECTENG733:
+            type: restricted
+          ENGSCI711:
+            type: restricted
+          ENGSCI712:
+            type: restricted
+          ENGSCI740:
+            type: restricted
+          MECHENG743:
+            type: restricted
+          BIOMENG771:
+            type: restricted
+          CHEMMAT757:
+            type: restricted
+          COMPSYS705:
+            type: restricted
+      Chemical and Materials Engineering:
+        courses:
+          ENGGEN121:
+            type: required
+          ENGSCI111:
+            type: required
+          WTRENG100:
+            type: required
+          CHEMMAT121:
+            type: required
+          ELECTENG101:
+            type: required
+          ENGGEN115:
+            type: required
+          ENGGEN131:
+            type: required
+          CHEMMAT201:
+            type: required
+          CHEMMAT 204:
+            type: required
+          CHEMMAT206:
+            type: required
+          ENGSCI211:
+            type: required
+          CHEMMAT202:
+            type: required
+          CHEMMAT203:
+            type: required
+          CHEMMAT205:
+            type: required
+          ENGGEN204:
+            type: required
+          CHEMMAT301:
+            type: required
+          CHEMMAT305:
+            type: required
+          CHEMMAT306:
+            type: required
+          ENGGEN303:
+            type: required
+          CHEMMAT302:
+            type: required
+          CHEMMAT303:
+            type: required
+          ENGSCI311:
+            type: required
+          CHEMMAT723:
+            type: restricted
+          CHEMMAT304:
+            type: restricted
+          CHEMMAT720:
+            type: restricted
+          CHEMMAT725:
+            type: restricted
+          CHEMMAT757:
+            type: restricted
+          CHEMMAT752:
+            type: required
+          ENGGEN403:
+            type: required
+          CHEMMAT724:
+            type: restricted
+          CHEMMAT753:
+            type: restricted
+          CHEMMAT756:
+            type: restricted
+          CHEMMAT760:
+            type: restricted
+          CHEMMAT758:
+            type: restricted
+          CHEMMAT759:
+            type: restricted
+          CHEMMAT773:
+            type: restricted
+          CHEMMAT778:
+            type: restricted
+          GEOTHERM785:
+            type: restricted
+      Civil Engineering:
+        courses:
+          ENGGEN121:
+            type: required
+          ENGSCI111:
+            type: required
+          WTRENG100:
+            type: required
+          CHEMMAT121:
+            type: required
+          ELECTENG101:
+            type: required
+          ENGGEN115:
+            type: required
+          ENGGEN131:
+            type: required
+          CIVIL202:
+            type: required
+          CIVIL203:
+            type: required
+          ENGSCI211:
+            type: required
+          STRCTENG200:
+            type: required
+          CIVIL200:
+            type: required
+          ENGGEN204:
+            type: required
+          ENVENG200:
+            type: required
+          STRCTENG201:
+            type: required
+          CIVIL300:
+            type: required
+          ENGGEN303:
+            type: required
+          ENVENG300:
+            type: required
+          STRCTENG304:
+            type: required
+          CIVIL302:
+            type: required
+          CIVIL303:
+            type: required
+          ENGSCI311:
+            type: required
+          CIVIL301:
+            type: restricted
+          CIVIL304:
+            type: restricted
+          CIVIL305:
+            type: restricted
+          ENVENG331:
+            type: restricted
+          CIVIL790:
+            type: required
+          CIVIL791:
+            type: required
+          CIVIL756:
+            type: required
+          ENGGEN403:
+            type: required
+          CIVIL700:
+            type: restricted
+          CIVIL722:
+            type: restricted
+          CIVIL726:
+            type: restricted
+          CIVIL729:
+            type: restricted
+          CIVIL731:
+            type: restricted
+          CIVIL733:
+            type: restricted
+          CIVIL735:
+            type: restricted
+          CIVIL736:
+            type: restricted
+          CIVIL750:
+            type: restricted
+          CIVIL782:
+            type: restricted
+          ENVENG740:
+            type: restricted
+          ENVENG747:
+            type: restricted
+      Computer Systems Engineering:
+        courses:
+          ENGGEN121:
+            type: required
+          ENGSCI111:
+            type: required
+          WTRENG100:
+            type: required
+          CHEMMAT121:
+            type: required
+          ELECTENG101:
+            type: required
+          ENGGEN115:
+            type: required
+          ENGGEN131:
+            type: required
+          COMPSYS201:
+            type: required
+          ELECTENG291:
+            type: required
+          ENGSCI211:
+            type: required
+          SOFTENG281:
+            type: required
+          COMPSYS209:
+            type: required
+          ELECTENG292:
+            type: required
+          ENGGEN204:
+            type: required
+          ELECTENG204:
+            type: restricted
+          SOFTENG283:
+            type: restricted
+          SOFTENG284:
+            type: restricted
+          COMPSYS305:
+            type: required
+          ENGGEN303:
+            type: required
+          ENGSCI313:
+            type: required
+          COMPSYS301:
+            type: required
+          COMPSYS302:
+            type: restricted
+          SOFTENG350:
+            type: restricted
+          COMPSYS303:
+            type: restricted
+          COMPSYS304:
+            type: restricted
+          COMPSYS306:
+            type: restricted
+          ELECTENG305:
+            type: restricted
+          ELECTENG331:
+            type: restricted
+          ELECTENG322:
+            type: restricted
+          SOFTENG325:
+            type: restricted
+          SOFTENG364:
+            type: restricted
+          COMPSYS770:
+            type: required
+          ENGGEN403:
+            type: required
+          COMPSYS701:
+            type: restricted
+          COMPSYS721:
+            type: restricted
+          COMPSYS723:
+            type: restricted
+          COMPSYS704:
+            type: restricted
+          COMPSYS705:
+            type: restricted
+          COMPSYS725:
+            type: restricted
+          COMPSYS726:
+            type: restricted
+          COMPSYS732:
+            type: restricted
+          ELECTENG722:
+            type: restricted
+          ELECTENG732:
+            type: restricted
+          ELECTENG733:
+            type: restricted
+          ELECTENG734:
+            type: restricted
+          SOFTENG701:
+            type: restricted
+          SOFTENG751:
+            type: restricted
+          ELECTENG704:
+            type: restricted
+          ELECTENG706:
+            type: restricted
+          ELECTENG726:
+            type: restricted
+          MECHENG726:
+            type: restricted
+          SOFTENG761:
+            type: restricted
+      Electrical and Electronic Engineering:
+        courses:
+          ENGGEN121:
+            type: required
+          ENGSCI111:
+            type: required
+          WTRENG100:
+            type: required
+          CHEMMAT121:
+            type: required
+          ELECTENG101:
+            type: required
+          ENGGEN115:
+            type: required
+          ENGGEN131:
+            type: required
+          COMPSYS201:
+            type: required
+          ELECTENG291:
+            type: required
+          ENGSCI211:
+            type: required
+          SOFTENG281:
+            type: required
+          ELECTENG204:
+            type: required
+          ELECTENG209:
+            type: required
+          ENGGEN204:
+            type: required
+          ELECTENG292:
+            type: restricted
+          SOFTENG283:
+            type: restricted
+          SOFTENG284:
+            type: restricted
+          ELECTENG310:
+            type: required
+          ENGGEN303:
+            type: required
+          ENGSCI313:
+            type: required
+          ELECTENG311:
+            type: required
+          ELECTENG305:
+            type: restricted
+          ELECTENG309:
+            type: restricted
+          ELECTENG331:
+            type: restricted
+          ELECTENG332:
+            type: restricted
+          COMPSYS302:
+            type: restricted
+          COMPSYS305:
+            type: restricted
+          ELECTENG307:
+            type: restricted
+          SOFTENG350:
+            type: restricted
+          COMPSYS303:
+            type: restricted
+          COMPSYS304:
+            type: restricted
+          COMPSYS306:
+            type: restricted
+          SOFTENG325:
+            type: restricted
+          SOFTENG364:
+            type: restricted
+          ELECTENG770:
+            type: required
+          ENGGEN403:
+            type: required
+          COMPSYS721:
+            type: restricted
+          COMPSYS723:
+            type: restricted
+          ELECTENG721:
+            type: restricted
+          ELECTENG722:
+            type: restricted
+          ELECTENG731:
+            type: restricted
+          ELECTENG732:
+            type: restricted
+          ELECTENG733:
+            type: restricted
+          ELECTENG734:
+            type: restricted
+          COMPSYS705:
+            type: restricted
+          COMPSYS725:
+            type: restricted
+          COMPSYS726:
+            type: restricted
+          ELECTENG701:
+            type: restricted
+          ELECTENG703:
+            type: restricted
+          ELECTENG704:
+            type: restricted
+          ELECTENG726:
+            type: restricted
+          ELECTENG735:
+            type: restricted
+          ELECTENG736:
+            type: restricted
+          ELECTENG738:
+            type: restricted
+          MECHENG726:
+            type: restricted
+      Engineering Science:
+        courses:
+          ENGGEN121:
+            type: required
+          ENGSCI111:
+            type: required
+          WTRENG100:
+            type: required
+          CHEMMAT121:
+            type: required
+          ELECTENG101:
+            type: required
+          ENGGEN115:
+            type: required
+          ENGGEN131:
+            type: required
+          ENGSCI211:
+            type: required
+          BIOMENG221:
+            type: required
+          ENGSCI233:
+            type: required
+          ENGSCI255:
+            type: required
+          ENGGEN204:
+            type: required
+          ENGSCI263:
+            type: required
+          SOFTENG281:
+            type: restricted
+          BIOMENG241:
+            type: restricted
+          BIOMENG261:
+            type: restricted
+          ENGSCI205:
+            type: restricted
+          MECHENG211:
+            type: restricted
+          MECHENG222:
+            type: restricted
+          MECHENG270:
+            type: restricted
+          ENGGEN303:
+            type: required
+          ENGSCI343:
+            type: required
+          ENGSCI355:
+            type: required
+          ENGSCI391:
+            type: required
+          ENGSCI314:
+            type: required
+          ENGSCI331:
+            type: required
+          ENGSCI344:
+            type: required
+          ENGSCI309:
+            type: restricted
+          MECHENG325:
+            type: restricted
+          ENGSCI773:
+            type: required
+          ENGGEN403:
+            type: required
+          ENGSCI711:
+            type: restricted
+          ENGSCI712:
+            type: restricted
+          ENGSCI740:
+            type: restricted
+          ENGSCI760:
+            type: restricted
+          BIOMENG771:
+            type: restricted
+          ENGSCI721:
+            type: restricted
+          ENGSCI755:
+            type: restricted
+          ENGSCI761:
+            type: restricted
+          ENGSCI763:
+            type: restricted
+          ENGSCI768:
+            type: restricted
+          GEOTHERM785:
+            type: restricted
+      Mechanical Engineering:
+        courses:
+          ENGGEN121:
+            type: required
+          ENGSCI111:
+            type: required
+          WTRENG100:
+            type: required
+          CHEMMAT121:
+            type: required
+          ELECTENG101:
+            type: required
+          ENGGEN115:
+            type: required
+          ENGGEN131:
+            type: required
+          ENGSCI211:
+            type: required
+          MECHENG235:
+            type: required
+          MECHENG242:
+            type: required
+          ENGGEN204:
+            type: required
+          MECHENG211:
+            type: required
+          MECHENG222:
+            type: required
+          MECHENG236:
+            type: required
+          MECHENG201:
+            type: restricted
+          ENGGEN303:
+            type: required
+          MECHENG322:
+            type: required
+          MECHENG334:
+            type: required
+          MECHENG340:
+            type: required
+          ENGSCI311:
+            type: required
+          MECHENG311:
+            type: required
+          MECHENG325:
+            type: required
+          MECHENG352:
+            type: required
+          MECHENG731:
+            type: required
+          ENGGEN403:
+            type: required
+          AEROSPCE720:
+            type: restricted
+          ENGGEN705:
+            type: restricted
+          MECHENG712:
+            type: restricted
+          MECHENG713:
+            type: restricted
+          MECHENG718:
+            type: restricted
+          MECHENG722:
+            type: restricted
+          MECHENG743:
+            type: restricted
+          MECHENG752:
+            type: restricted
+          AEROSPCE740:
+            type: restricted
+          ENGGEN701:
+            type: restricted
+          MECHENG715:
+            type: restricted
+          MECHENG724:
+            type: restricted
+          MECHENG726:
+            type: restricted
+          MECHENG735:
+            type: restricted
+          MECHENG747:
+            type: restricted
+          MECHENG754:
+            type: restricted
+          MECHENG755:
+            type: restricted
+      Mechatronics Engineering:
+        courses:
+          ENGGEN121:
+            type: required
+          ENGSCI111:
+            type: required
+          WTRENG100:
+            type: required
+          CHEMMAT121:
+            type: required
+          ELECTENG101:
+            type: required
+          ENGGEN115:
+            type: required
+          ENGGEN131:
+            type: required
+          ENGSCI211:
+            type: required
+          MECHENG235:
+            type: required
+          MECHENG242:
+            type: required
+          ENGGEN204:
+            type: required
+          MECHENG211:
+            type: required
+          MECHENG222:
+            type: required
+          MECHENG270:
+            type: required
+          MECHENG201:
+            type: restricted
+          ENGGEN303:
+            type: required
+          MECHENG313:
+            type: required
+          MECHENG322:
+            type: required
+          MECHENG370:
+            type: required
+          ENGSCI311:
+            type: required
+          MECHENG306:
+            type: required
+          MECHENG325:
+            type: required
+          MECHENG371:
+            type: required
+          MECHENG705:
+            type: required
+          MECHENG706:
+            type: required
+          ENGGEN403:
+            type: required
+          AEROSPCE720:
+            type: restricted
+          ENGGEN705:
+            type: restricted
+          MECHENG709:
+            type: restricted
+          MECHENG712:
+            type: restricted
+          MECHENG722:
+            type: restricted
+          MECHENG752:
+            type: restricted
+          MECHENG718:
+            type: restricted
+          MECHENG755:
+            type: restricted
+          AEROSPCE740:
+            type: restricted
+          COMPSYS726:
+            type: restricted
+          MECHENG715:
+            type: restricted
+          MECHENG724:
+            type: restricted
+          MECHENG726:
+            type: restricted
+          MECHENG735:
+            type: restricted
+          MECHENG736:
+            type: restricted
+          MECHENG754:
+            type: restricted
+      Software Engineering:
+        courses:
+          ENGGEN121:
+            type: required
+          ENGSCI111:
+            type: required
+          WTRENG100:
+            type: required
+          CHEMMAT121:
+            type: required
+          ELECTENG101:
+            type: required
+          ENGGEN115:
+            type: required
+          ENGGEN131:
+            type: required
+      Structural Engineering:
+        courses:
+          ENGGEN121:
+            type: required
+          ENGSCI111:
+            type: required
+          WTRENG100:
+            type: required
+          CHEMMAT121:
+            type: required
+          ELECTENG101:
+            type: required
+          ENGGEN115:
+            type: required
+          ENGGEN131:
+            type: required
+  BUrbPlan(Hons):
+    courses:
+  MAerospaceEng:
+    courses:
+  MArch:
+    courses:
+  MArch(Prof):
+    courses:
+  MArch(Prof)UrbDes:
+    courses:
+  MArchProfUrbPlanProf:
+    courses:
+  MCivilEng:
+    courses:
+  MDes:
+    courses:
+  MDisMgt:
+    courses:
+  MEqEng:
+    courses:
+  MEnergy:
+    courses:
+  ME:
+    courses:
+  MEMgt:
+    courses:
+  MEPM:
+    courses:
+  MEngGeol:
+    courses:
+  MEngSt:
+    courses:
+  MInfraAssetMgt:
+    courses:
+  MMaterialsEng:
+    courses:
+  MMedicalEng:
+    courses:
+  MORAn:
+    courses:
+  MProfEng:
+    courses:
+  MRobotEng:
+    courses:
+  MUrbDes:
+    courses:
+  MUrbPlan:
+    courses:
+  MUrbPlan(Prof):
+    courses:
+  MUrbPlan(Prof)UrbDes:
+    courses:
+
+
+
+
+
+
+
