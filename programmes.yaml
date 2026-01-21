@@ -749,6 +749,96 @@ programmes:
             type: required
           ENGGEN131:
             type: required
+          COMPSYS201:
+            type: required
+          ENGSCI211:
+            type: required
+          SOFTENG281:
+            type: required
+          ENGGEN204:
+            type: required
+          SOFTENG206:
+            type: required
+          SOFTENG283:
+            type: required
+          ELECTENG291:
+            type: restricted
+          SOFTENG282:
+            type: restricted
+          ELECTENG204:
+            type: restricted
+          ELECTENG292:
+            type: restricted
+          SOFTENG284:
+            type: restricted
+          ENGGEN303:
+            type: required
+          SOFTENG351:
+            type: required
+          SOFTENG306:
+            type: required
+          SOFTENG325:
+            type: required
+          SOFTENG350:
+            type: restricted
+          SOFTENG370:
+            type: restricted
+          COMPSYS305:
+            type: restricted
+          ENGSCI313:
+            type: restricted
+          SOFTENG310:
+            type: restricted
+          SOFTENG364:
+            type: restricted
+          COMPSYS303:
+            type: restricted
+          COMPSYS304:
+            type: restricted
+          COMPSYS306:
+            type: restricted
+          ELECTENG305:
+            type: restricted
+          ELECTENG331:
+            type: restricted
+          ELECTENG332:
+            type: restricted
+          SOFTENG770:
+            type: required
+          ENGGEN403:
+            type: required
+          COMPSYS721:
+            type: restricted
+          COMPSYS723:
+            type: restricted
+          COMPSYS731:
+            type: restricted
+          COMPSYS732:
+            type: restricted
+          ELECTENG733:
+            type: restricted
+          ENGSCI760:
+            type: restricted
+          SOFTENG701:
+            type: restricted
+          SOFTENG751:
+            type: restricted
+          SOFTENG754:
+            type: restricted
+          COMPSYS705:
+            type: restricted
+          COMPSYS726:
+            type: restricted
+          MECHENG726:
+            type: restricted
+          SOFTENG752:
+            type: restricted
+          SOFTENG753:
+            type: restricted
+          SOFTENG761:
+            type: restricted
+          SOFTENG762:
+            type: restricted
       Structural Engineering:
         courses:
           ENGGEN121:
@@ -765,6 +855,80 @@ programmes:
             type: required
           ENGGEN131:
             type: required
+          CIVIL202:
+            type: required
+          CIVIL203:
+            type: required
+          ENGSCI211:
+            type: required
+          STRCTENG200:
+            type: required
+          CIVIL200:
+            type: required
+          ENGGEN204:
+            type: required
+          ENVENG200:
+            type: required
+          STRCTENG201:
+            type: required
+          CIVIL300:
+            type: required
+          ENGGEN303:
+            type: required
+          STRCTENG300:
+            type: required
+          STRCTENG301:
+            type: required
+          ENGSCI311:
+            type: required
+          STRCTENG302:
+            type: required
+          STRCTENG303:
+            type: required
+          CIVIL301:
+            type: restricted
+          CIVIL302:
+            type: restricted
+          CIVIL303:
+            type: restricted
+          CIVIL305:
+            type: restricted
+          STRCTENG710:
+            type: required
+          CIVIL790:
+            type: required
+          STRCTENG711:
+            type: required
+          CIVIL756:
+            type: required
+          ENGGEN403:
+            type: required
+          CIVIL700:
+            type: restricted
+          CIVIL722:
+            type: restricted
+          CIVIL729:
+            type: restricted
+          CIVIL731:
+            type: restricted
+          CIVIL733:
+            type: restricted
+          CIVIL735:
+            type: restricted
+          CIVIL736:
+            type: restricted
+          CIVIL750:
+            type: restricted
+          CIVIL782:
+            type: restricted
+          CIVIL791:
+            type: restricted
+          ENVENG701:
+            type: restricted
+          ENVENG740:
+            type: restricted
+          ENVENG747:
+            type: restricted
   BUrbPlan(Hons):
     courses:
   MAerospaceEng:
