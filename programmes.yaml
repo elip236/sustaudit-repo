@@ -931,6 +931,52 @@ programmes:
             type: restricted
   BUrbPlan(Hons):
     courses:
+          BLTENV101:
+            type: required
+          BLTENV102:
+            type: required
+          BLTENV103:
+            type: required
+          WTRENG100:
+            type: required
+          URBPLAN101:
+            type: required
+          URBPLAN124:
+            type: required
+          URBPLAN205:
+            type: required
+          URBPLAN221:
+            type: required
+          URBPLAN222:
+            type: required
+          URBPLAN223:
+            type: required
+          URBPLAN225:
+            type: required
+          URBPLAN226:
+            type: required
+          URBPLAN307:
+            type: required
+          URBPLAN321:
+            type: required
+          URBPLAN323:
+            type: required
+          URBPLAN325:
+            type: required
+          URBPLAN326:
+            type: required
+          URBPLAN711:
+            type: required
+          URBPLAN714:
+            type: required
+          URBPLAN716:
+            type: required
+          URBPLAN734:
+            type: required
+          URBPLAN735:
+            type: required
+          URBPLAN757:
+            type: required
   MAerospaceEng:
     courses:
   MArch:
